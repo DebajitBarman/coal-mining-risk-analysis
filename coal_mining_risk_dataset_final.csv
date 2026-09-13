@@ -1,0 +1,801 @@
+﻿Year,State,District,Mine_Name,Mine_Type,Place_of_Operation,Accident_Type,Machinery_Involved,Injured,Death,Worker_Age,Worker_Experience_Years,Training_Level,Shift,Safety_Compliance_Score,Risk_Score,Risk_Level
+2015,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Gas leakage,Excavator,7,0,28,3–5 years,Basic,Afternoon,41,106.58685661204493,Very High
+2015,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Workshop,Side fall,Dumper,2,0,34,5–10 years,Certified,Morning,87,40.64694279531526,Moderate
+2015,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Haul Road,Side fall,Truck,5,0,18,<1 year,Intermediate,Afternoon,58,104.39075415240276,Very High
+2015,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Face,Gas leakage,Excavator,5,0,32,5–10 years,Basic,Morning,72,86.29211942563211,Very High
+2015,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Stockyard,Fire,Dumper,2,0,34,3–5 years,Intermediate,Morning,86,54.66338650110666,Moderate
+2015,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Explosion,Loader,6,0,28,5–10 years,,Morning,44,,Very High
+2015,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Shaft,Electrical accident,Truck,4,0,28,<1 year,Certified,Night,55,101.31685126202956,Very High
+2015,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Shaft,Electrical accident,,3,0,36,5–10 years,Intermediate,Afternoon,100,,Very High
+2015,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Blasting accident,,7,0,28,<1 year,Advanced,Night,50,,Very High
+2015,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Excavation Area,Roof fall,Loader,4,0,25,1–3 years,Advanced,Night,73,73.97024017434386,High
+2015,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Workshop,Explosion,Loader,4,0,46,10+ years,Intermediate,Afternoon,80,59.14632922875015,Moderate
+2015,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Excavation Area,Side fall,Drill,7,0,24,1–3 years,Basic,Morning,50,87.13708098571897,Very High
+2015,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Workshop,Machinery collision,Drill,3,0,29,3–5 years,,Night,59,,Very High
+2015,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Excavation Area,Gas leakage,Excavator,4,1,36,1–3 years,Intermediate,Afternoon,55,95.3468790213688,Very High
+2015,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Face,Roof fall,,6,0,30,5–10 years,Advanced,Night,64,,Very High
+2015,Jharkhand,Giridih,Giridih Coalfield,Underground,Workshop,Vehicle rollover,Excavator,5,0,35,3–5 years,Intermediate,Night,63,81.55084988303611,High
+2015,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Fall of person,Loader,6,0,31,3–5 years,Basic,Afternoon,62,84.1486755186623,High
+2015,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Fall of person,Heavy Earth Moving Machinery,3,0,20,3–5 years,Advanced,Night,90,81.25698933038109,High
+2015,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Stockyard,Fall of person,Loader,2,0,21,<1 year,Advanced,Night,75,59.36790369791515,Moderate
+2015,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Workshop,Gas leakage,Drill,4,0,29,1–3 years,Intermediate,Afternoon,95,63.35078519465883,High
+2015,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Excavation Area,Side fall,Excavator,4,0,33,1–3 years,Basic,Morning,53,78.66259507568621,High
+2015,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Workshop,Machinery collision,Truck,5,0,32,5–10 years,Intermediate,Night,68,72.89689479805385,High
+2015,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Stockyard,Side fall,Heavy Earth Moving Machinery,9,0,21,<1 year,Intermediate,Night,52,114.4701128187517,Very High
+2015,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Haul Road,Blasting accident,Truck,5,0,18,<1 year,Advanced,Night,68,86.10100725514617,Very High
+2015,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Stockyard,Electrical accident,Excavator,4,0,35,5–10 years,,Afternoon,59,,Very High
+2015,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Workshop,Fall of person,Truck,4,0,26,3–5 years,Basic,Morning,67,79.64369035883946,High
+2015,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Haul Road,Blasting accident,Dumper,4,0,47,10+ years,Intermediate,Morning,78,60.19602569031078,High
+2015,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Excavation Area,Fall of person,Dumper,7,0,38,3–5 years,Basic,Night,50,103.5027920733827,Very High
+2015,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Workshop,Fire,Heavy Earth Moving Machinery,6,0,34,3–5 years,Basic,Night,37,111.79744524032478,Very High
+2015,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,3,0,20,1–3 years,,Afternoon,55,,Very High
+2015,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Roof fall,Drill,8,0,30,1–3 years,Intermediate,Morning,74,77.99317355108242,High
+2015,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Haul Road,Blasting accident,Heavy Earth Moving Machinery,5,0,34,3–5 years,Basic,Afternoon,55,116.40911273803574,Very High
+2015,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Excavation Area,Machinery collision,Dumper,4,0,36,3–5 years,Basic,Afternoon,88,77.74601110104827,High
+2015,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Excavation Area,Blasting accident,Excavator,5,0,32,3–5 years,Basic,Morning,68,66.5691562841764,High
+2015,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,5,0,43,10+ years,Advanced,Morning,66,78.89017964841275,High
+2015,Odisha,Angul,Talcher Coal Mine,Underground,Stockyard,Gas leakage,Dumper,6,0,18,<1 year,Advanced,Night,49,100.51662540011591,Very High
+2015,Odisha,Angul,Talcher Coal Mine,Opencast,Haul Road,Machinery collision,Truck,5,0,33,5–10 years,Advanced,Morning,90,58.83545438001902,Moderate
+2015,Odisha,Angul,Talcher Coal Mine,Opencast,Haul Road,Fire,Heavy Earth Moving Machinery,3,0,30,5–10 years,,Morning,70,,Very High
+2015,Odisha,Angul,Talcher Coal Mine,Underground,Excavation Area,Fall of person,Loader,3,0,36,1–3 years,Advanced,Morning,70,62.68725580440628,High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Side fall,,8,0,23,3–5 years,Intermediate,Afternoon,57,,Very High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Haul Road,Machinery collision,Truck,3,0,45,10+ years,Intermediate,Morning,72,65.15386631998165,High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,5,1,33,5–10 years,Basic,Morning,69,101.08547312475989,Very High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Fall of person,Heavy Earth Moving Machinery,7,0,28,<1 year,Intermediate,Afternoon,61,101.13740687044704,Very High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,5,0,25,<1 year,Intermediate,Afternoon,49,96.19558521764284,Very High
+2015,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Roof fall,Excavator,6,0,44,10+ years,Intermediate,Afternoon,70,71.0859120385303,High
+2015,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Face,Side fall,Dumper,4,0,18,<1 year,Certified,Morning,80,70.12062316642117,High
+2015,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Face,Fire,,4,0,24,<1 year,Intermediate,Afternoon,53,,Very High
+2015,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Excavation Area,Side fall,Dumper,4,0,34,5–10 years,Certified,Night,82,76.42848890487566,High
+2015,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Workshop,Roof fall,Dumper,6,0,24,1–3 years,,Night,56,,Very High
+2015,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Stockyard,Fire,Truck,5,0,39,5–10 years,Intermediate,Afternoon,71,65.54783937854906,High
+2015,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Excavation Area,Roof fall,Loader,5,0,34,3–5 years,Intermediate,Afternoon,85,78.29633587757918,High
+2015,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,3,0,30,3–5 years,Basic,Morning,91,62.059670878334735,High
+2015,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,7,0,32,3–5 years,Intermediate,Night,69,99.69231199877618,Very High
+2015,Telangana,Peddapalli,Singareni Coal Mine,Underground,Face,Gas leakage,Heavy Earth Moving Machinery,9,0,22,<1 year,,Night,35,,Very High
+2015,Telangana,Peddapalli,Singareni Coal Mine,Underground,Shaft,Gas leakage,Heavy Earth Moving Machinery,5,0,24,<1 year,Basic,Morning,50,115.1239980899838,Very High
+2015,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Electrical accident,Loader,5,0,27,<1 year,,Night,42,,Very High
+2015,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Workshop,Roof fall,Loader,4,0,27,1–3 years,Intermediate,Afternoon,73,64.44312990710944,High
+2015,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Excavation Area,Roof fall,Heavy Earth Moving Machinery,4,0,47,5–10 years,Certified,Night,100,59.763150496595145,Moderate
+2015,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,9,0,22,3–5 years,Basic,Afternoon,48,115.12505372561425,Very High
+2015,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Face,Roof fall,Excavator,7,0,25,<1 year,Certified,Afternoon,78,84.70218050848943,High
+2015,Uttar Pradesh,Mirzapur,Obra Coal Mine,Opencast,Excavation Area,Fall of person,,2,0,26,5–10 years,Advanced,Night,81,,Very High
+2015,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Face,Side fall,Heavy Earth Moving Machinery,6,0,42,10+ years,Intermediate,Morning,80,77.25736409334473,High
+2015,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Face,Explosion,Excavator,6,0,24,<1 year,Intermediate,Night,51,102.17466010397588,Very High
+2015,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Workshop,Electrical accident,Loader,2,0,18,1–3 years,Certified,Morning,83,39.01517350367732,Moderate
+2015,West Bengal,Purulia,Purulia Coal Mine,Opencast,Excavation Area,Electrical accident,Drill,4,0,28,5–10 years,Intermediate,Night,66,65.8501032895768,High
+2016,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Haul Road,Machinery collision,Dumper,6,0,25,5–10 years,Basic,Morning,67,91.6249601142833,Very High
+2016,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Haul Road,Vehicle rollover,Loader,3,0,39,5–10 years,Intermediate,Night,79,80.11195951367867,High
+2016,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Haul Road,Fall of person,Drill,3,0,28,1–3 years,Advanced,Afternoon,78,71.8141315915681,High
+2016,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Side fall,Excavator,4,0,23,3–5 years,Basic,Night,67,88.64654410019054,Very High
+2016,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Stockyard,Machinery collision,Heavy Earth Moving Machinery,3,0,21,<1 year,Intermediate,Afternoon,63,89.2195209815795,Very High
+2016,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Fall of person,Heavy Earth Moving Machinery,4,0,31,3–5 years,Basic,Night,81,91.04558242203365,Very High
+2016,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Haul Road,Side fall,,5,0,20,<1 year,Basic,Night,53,,Very High
+2016,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Stockyard,Blasting accident,Loader,5,0,38,10+ years,Intermediate,Night,60,74.85669584356019,High
+2016,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Blasting accident,Loader,7,0,32,<1 year,Advanced,Night,67,104.45857462325603,Very High
+2016,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,4,0,30,5–10 years,Certified,Afternoon,83,49.32101958364102,Moderate
+2016,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,1,0,31,5–10 years,Advanced,Morning,100,51.287610017500896,Moderate
+2016,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Workshop,Machinery collision,Excavator,7,1,20,<1 year,Basic,Afternoon,29,116.74818827295269,Very High
+2016,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Excavation Area,Blasting accident,Dumper,2,0,33,10+ years,Advanced,Night,94,67.20397059813654,High
+2016,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Face,Side fall,Excavator,4,0,22,<1 year,Intermediate,Night,54,82.76704310614201,High
+2016,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Haul Road,Electrical accident,Dumper,6,0,39,5–10 years,,Night,61,,Very High
+2016,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Excavation Area,Explosion,Heavy Earth Moving Machinery,3,0,41,10+ years,Certified,Morning,99,62.52131244864995,High
+2016,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Stockyard,Fire,,7,0,20,<1 year,Intermediate,Night,61,,Very High
+2016,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Face,Machinery collision,Excavator,4,0,45,10+ years,Advanced,Night,80,72.91157617896606,High
+2016,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Face,Machinery collision,Drill,6,0,21,1–3 years,Intermediate,Afternoon,36,79.5269191269054,High
+2016,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Shaft,Roof fall,,4,0,30,<1 year,Basic,Afternoon,63,,Very High
+2016,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Haul Road,Fall of person,Loader,4,0,19,<1 year,Advanced,Morning,60,66.99297182566185,High
+2016,Jharkhand,Giridih,Giridih Coalfield,Underground,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,5,0,28,3–5 years,Basic,Morning,74,96.0616084708083,Very High
+2016,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Stockyard,Fall of person,Heavy Earth Moving Machinery,4,0,27,3–5 years,Intermediate,Morning,74,65.71500443863874,High
+2016,Jharkhand,Ramgarh,Central Coal Mine,Underground,Excavation Area,Roof fall,Drill,5,0,25,1–3 years,Certified,Night,60,79.88095918493184,High
+2016,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Face,Gas leakage,Truck,8,0,26,<1 year,Basic,Afternoon,42,123.25306973245343,Very High
+2016,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Haul Road,Electrical accident,Excavator,3,0,25,<1 year,Advanced,Morning,83,56.188310197392155,Moderate
+2016,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Stockyard,Vehicle rollover,Truck,5,0,18,<1 year,Advanced,Night,67,98.07457996213157,Very High
+2016,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Face,Gas leakage,Heavy Earth Moving Machinery,8,0,18,<1 year,Advanced,Morning,61,88.79178762449058,Very High
+2016,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,6,0,19,1–3 years,Certified,Afternoon,83,80.48935141360893,High
+2016,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Face,Roof fall,,3,0,31,1–3 years,Intermediate,Morning,59,,Very High
+2016,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Stockyard,Machinery collision,Loader,6,0,21,<1 year,Basic,Night,43,87.94594020747152,Very High
+2016,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Shaft,Explosion,Truck,5,0,21,1–3 years,Intermediate,Morning,44,93.58448110825832,Very High
+2016,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Workshop,Blasting accident,Excavator,7,0,18,<1 year,,Morning,34,,Very High
+2016,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Haul Road,Machinery collision,Heavy Earth Moving Machinery,7,0,20,3–5 years,,Night,25,,Very High
+2016,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,6,0,21,3–5 years,,Night,47,,Very High
+2016,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Excavation Area,Roof fall,Truck,6,0,36,10+ years,Basic,Afternoon,100,59.33851703179835,Moderate
+2016,Odisha,Angul,Talcher Coal Mine,Underground,Face,Blasting accident,Drill,2,0,19,3–5 years,Certified,Morning,91,52.91741870893856,Moderate
+2016,Odisha,Angul,Talcher Coal Mine,Opencast,Haul Road,Blasting accident,Heavy Earth Moving Machinery,8,0,24,<1 year,,Night,51,,Very High
+2016,Odisha,Angul,Talcher Coal Mine,Opencast,Stockyard,Fall of person,Excavator,3,0,23,<1 year,Certified,Night,77,54.990890923113525,Moderate
+2016,Odisha,Angul,Talcher Coal Mine,Underground,Haul Road,Machinery collision,Truck,5,0,22,<1 year,Certified,Night,79,89.75485715333596,Very High
+2016,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Side fall,,6,0,24,1–3 years,Basic,Night,54,,Very High
+2016,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Haul Road,Vehicle rollover,,6,0,31,1–3 years,Advanced,Night,56,,Very High
+2016,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Blasting accident,Drill,2,0,34,10+ years,Intermediate,Night,94,65.09831125132736,High
+2016,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Vehicle rollover,,6,0,33,5–10 years,Basic,Morning,39,,Very High
+2016,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Shaft,Gas leakage,,2,0,25,3–5 years,Advanced,Morning,79,,Very High
+2016,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Excavation Area,Gas leakage,Drill,3,1,43,3–5 years,Advanced,Afternoon,90,69.32491513880383,High
+2016,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Workshop,Gas leakage,,6,0,40,10+ years,,Night,58,,Very High
+2016,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Stockyard,Vehicle rollover,Dumper,5,1,33,5–10 years,Advanced,Morning,60,75.2409208397641,High
+2016,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Stockyard,Machinery collision,Truck,4,0,22,1–3 years,Basic,Afternoon,58,91.65296844994114,Very High
+2016,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Blasting accident,Loader,10,1,25,1–3 years,Basic,Night,49,128.6305561408755,Very High
+2016,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Face,Roof fall,Heavy Earth Moving Machinery,5,1,42,3–5 years,Intermediate,Night,67,100.40618936933446,Very High
+2016,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Shaft,Gas leakage,,6,0,20,3–5 years,,Morning,63,,Very High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Stockyard,Machinery collision,Truck,4,0,29,1–3 years,,Night,82,,Very High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Shaft,Machinery collision,Dumper,7,0,18,<1 year,,Night,51,,Very High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Haul Road,Fire,Excavator,2,0,42,10+ years,Basic,Night,97,62.2077321307471,High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Haul Road,Machinery collision,Truck,7,0,39,5–10 years,Basic,Night,50,99.16412778817218,Very High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Haul Road,Explosion,Truck,6,0,30,3–5 years,Intermediate,Morning,80,75.36245018082104,High
+2016,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Workshop,Machinery collision,Excavator,3,0,20,<1 year,Certified,Afternoon,63,65.41117724374439,High
+2016,Telangana,Peddapalli,Singareni Coal Mine,Underground,Shaft,Electrical accident,Dumper,5,1,43,5–10 years,,Night,46,,Very High
+2016,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Machinery collision,Truck,9,0,32,<1 year,,Night,29,,Very High
+2016,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Face,Roof fall,Dumper,7,1,22,<1 year,Basic,Night,56,132.36182250323992,Very High
+2016,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Face,Roof fall,Dumper,4,0,21,1–3 years,Certified,Night,82,77.23785469947725,High
+2016,West Bengal,Bankura,Bankura Coal Mine,Opencast,Face,Fall of person,Heavy Earth Moving Machinery,3,0,18,<1 year,Certified,Night,92,64.93480908158891,High
+2016,West Bengal,Bankura,Bankura Coal Mine,Underground,Workshop,Roof fall,Dumper,3,0,35,5–10 years,Advanced,Night,85,71.39860546035057,High
+2016,West Bengal,Bankura,Bankura Coal Mine,Underground,Haul Road,Fire,Loader,5,1,35,3–5 years,,Morning,51,,Very High
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Stockyard,Fall of person,Dumper,2,0,32,3–5 years,Advanced,Night,97,56.997346275735474,Moderate
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Excavation Area,Machinery collision,Loader,5,0,21,1–3 years,,Night,37,,Very High
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Haul Road,Machinery collision,Truck,5,0,43,10+ years,Basic,Afternoon,66,73.35078514509557,High
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Haul Road,Electrical accident,Heavy Earth Moving Machinery,7,1,26,<1 year,Intermediate,Afternoon,48,112.69436972254073,Very High
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Haul Road,Gas leakage,Heavy Earth Moving Machinery,8,1,24,1–3 years,,Night,55,,Very High
+2016,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Face,Roof fall,Drill,4,0,30,3–5 years,Intermediate,Night,64,89.59973762007016,Very High
+2016,West Bengal,Purulia,Purulia Coal Mine,Underground,Workshop,Fire,Excavator,4,0,22,<1 year,Advanced,Afternoon,57,80.06698683065505,High
+2016,West Bengal,Purulia,Purulia Coal Mine,Opencast,Excavation Area,Roof fall,Heavy Earth Moving Machinery,8,0,46,10+ years,Basic,Morning,56,83.3117539351773,High
+2017,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Excavation Area,Machinery collision,Truck,5,0,31,5–10 years,,Morning,62,,Very High
+2017,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Haul Road,Explosion,Truck,7,0,33,3–5 years,,Morning,35,,Very High
+2017,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Face,Blasting accident,Drill,6,0,30,<1 year,Intermediate,Afternoon,69,90.30983973841653,Very High
+2017,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Stockyard,Fall of person,Loader,9,1,29,<1 year,Certified,Night,68,106.0285710171297,Very High
+2017,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Stockyard,Fire,Dumper,3,0,44,10+ years,Certified,Night,100,54.57006706175509,Moderate
+2017,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Face,Gas leakage,,6,0,33,1–3 years,Certified,Night,57,,Very High
+2017,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Workshop,Electrical accident,Truck,6,0,26,1–3 years,,Afternoon,48,,Very High
+2017,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Excavation Area,Explosion,Excavator,10,0,18,1–3 years,Intermediate,Morning,68,96.92729148710924,Very High
+2017,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Haul Road,Blasting accident,Dumper,10,0,29,1–3 years,,Morning,33,,Very High
+2017,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Workshop,Vehicle rollover,Truck,5,1,23,1–3 years,,Night,47,,Very High
+2017,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Excavation Area,Side fall,Drill,3,0,20,1–3 years,Advanced,Morning,75,65.0877662624676,High
+2017,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Haul Road,Roof fall,Dumper,4,0,39,10+ years,Advanced,Morning,82,69.38793869293275,High
+2017,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Haul Road,Machinery collision,Excavator,4,0,26,1–3 years,Advanced,Morning,82,69.2019714013835,High
+2017,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,5,0,21,1–3 years,Intermediate,Afternoon,61,100.9857928379879,Very High
+2017,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,4,0,28,1–3 years,Basic,Night,58,89.07990111368603,Very High
+2017,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Fire,Dumper,5,0,22,1–3 years,Advanced,Morning,64,88.32901478864402,Very High
+2017,Jharkhand,Giridih,Giridih Coalfield,Underground,Face,Gas leakage,Heavy Earth Moving Machinery,6,1,21,3–5 years,Basic,Morning,62,114.37228989319473,Very High
+2017,Jharkhand,Giridih,Giridih Coalfield,Underground,Excavation Area,Gas leakage,Dumper,4,0,38,10+ years,Intermediate,Afternoon,68,79.94259432789453,High
+2017,Jharkhand,Giridih,Giridih Coalfield,Underground,Haul Road,Fire,Heavy Earth Moving Machinery,5,0,37,5–10 years,Basic,Afternoon,65,107.46309804457903,Very High
+2017,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Haul Road,Blasting accident,Dumper,6,0,26,3–5 years,Basic,Afternoon,36,102.49533168364715,Very High
+2017,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Haul Road,Roof fall,Drill,5,0,32,5–10 years,Intermediate,Night,59,70.6347860111894,High
+2017,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Workshop,Machinery collision,Truck,6,0,36,1–3 years,Basic,Afternoon,63,97.42621443453531,Very High
+2017,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Excavation Area,Explosion,Drill,3,0,31,1–3 years,Certified,Afternoon,84,52.501273319090714,Moderate
+2017,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Excavation Area,Roof fall,Excavator,4,0,18,<1 year,Basic,Afternoon,72,78.34833841496982,High
+2017,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,7,0,24,1–3 years,,Morning,43,,Very High
+2017,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Face,Blasting accident,Truck,4,0,30,5–10 years,Certified,Night,100,70.71727072659316,High
+2017,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Shaft,Vehicle rollover,Truck,5,0,52,5–10 years,Basic,Afternoon,68,95.65350451697728,Very High
+2017,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Excavation Area,Vehicle rollover,Truck,7,0,32,<1 year,,Afternoon,51,,Very High
+2017,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Gas leakage,,3,0,50,10+ years,Certified,Night,83,,Very High
+2017,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Stockyard,Gas leakage,,2,0,41,10+ years,Advanced,Afternoon,95,,Very High
+2017,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Fire,Dumper,6,0,35,1–3 years,Basic,Morning,50,99.01844753598851,Very High
+2017,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Shaft,Machinery collision,Dumper,5,0,18,1–3 years,Advanced,Night,77,83.18505534257004,High
+2017,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Excavation Area,Roof fall,Loader,6,1,36,1–3 years,,Morning,38,,Very High
+2017,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Stockyard,Roof fall,Loader,3,0,29,3–5 years,Intermediate,Night,64,69.13675886013826,High
+2017,Odisha,Angul,Talcher Coal Mine,Underground,Excavation Area,Fall of person,Loader,3,0,24,1–3 years,Intermediate,Morning,77,68.89159316234358,High
+2017,Odisha,Angul,Talcher Coal Mine,Underground,Face,Side fall,Excavator,6,0,36,5–10 years,Basic,Morning,55,84.36460789926657,High
+2017,Odisha,Angul,Talcher Coal Mine,Opencast,Haul Road,Fire,Dumper,5,0,21,<1 year,Advanced,Afternoon,59,86.50676319732008,Very High
+2017,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Gas leakage,Drill,4,0,26,1–3 years,Certified,Morning,82,69.5087329961441,High
+2017,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Roof fall,Truck,4,1,30,3–5 years,Intermediate,Night,74,102.45200756751163,Very High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Roof fall,Drill,4,0,23,1–3 years,Intermediate,Morning,53,86.61413630862927,Very High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Stockyard,Gas leakage,,4,0,35,5–10 years,Intermediate,Morning,70,,Very High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Stockyard,Fall of person,Truck,4,0,33,3–5 years,Certified,Afternoon,69,72.28067666635847,High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Haul Road,Gas leakage,Dumper,4,0,38,5–10 years,Intermediate,Afternoon,68,80.30266939106002,High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Haul Road,Fall of person,Loader,6,0,26,1–3 years,Basic,Morning,37,83.77136977433487,High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Haul Road,Electrical accident,Dumper,5,0,27,1–3 years,Advanced,Night,66,75.31643000775554,High
+2017,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Excavation Area,Side fall,Excavator,7,0,21,<1 year,,Morning,31,,Very High
+2017,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Haul Road,Vehicle rollover,Truck,6,0,18,<1 year,Intermediate,Morning,52,89.3061488586966,Very High
+2017,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Shaft,Fall of person,Loader,3,0,36,3–5 years,Advanced,Afternoon,83,69.65600197636836,High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Face,Side fall,,9,0,20,<1 year,,Night,44,,Very High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Excavation Area,Fire,Dumper,5,0,18,<1 year,Advanced,Afternoon,54,95.10868434937251,Very High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Shaft,Electrical accident,Dumper,7,0,24,<1 year,Basic,Night,51,95.21282512772638,Very High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Shaft,Machinery collision,Heavy Earth Moving Machinery,6,0,27,3–5 years,Intermediate,Afternoon,85,80.94061110125654,High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Side fall,Loader,9,0,32,<1 year,,Afternoon,48,,Very High
+2017,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Excavation Area,Explosion,Excavator,4,0,32,5–10 years,Intermediate,Morning,87,71.62559517729389,High
+2017,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Face,Gas leakage,Loader,5,0,45,10+ years,,Morning,55,,Very High
+2017,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Face,Roof fall,Excavator,8,0,27,<1 year,Intermediate,Night,74,91.41704488515205,Very High
+2017,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Vehicle rollover,Loader,4,0,35,3–5 years,,Morning,62,,Very High
+2017,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Shaft,Fire,,5,0,18,<1 year,Certified,Afternoon,65,,Very High
+2017,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Excavation Area,Roof fall,Truck,3,0,32,1–3 years,Advanced,Afternoon,80,76.46457025519547,High
+2017,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Stockyard,Gas leakage,Drill,5,0,18,<1 year,Advanced,Afternoon,82,76.81490042378212,High
+2017,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Face,Machinery collision,Loader,4,0,33,1–3 years,Intermediate,Morning,84,71.632834873784,High
+2017,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Opencast,Face,Electrical accident,Heavy Earth Moving Machinery,5,0,37,10+ years,Intermediate,Afternoon,55,72.42811880867751,High
+2017,West Bengal,Bankura,Bankura Coal Mine,Opencast,Excavation Area,Fall of person,Drill,5,0,29,<1 year,,Night,27,,Very High
+2017,West Bengal,Bankura,Bankura Coal Mine,Opencast,Excavation Area,Machinery collision,Drill,5,0,28,<1 year,Intermediate,Night,62,78.44313810547294,High
+2017,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Haul Road,Explosion,Truck,4,0,23,3–5 years,Basic,Night,77,94.53220497270111,Very High
+2017,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Workshop,Roof fall,Excavator,9,0,31,<1 year,,Morning,27,,Very High
+2017,West Bengal,Purulia,Purulia Coal Mine,Underground,Stockyard,Gas leakage,Drill,2,0,41,10+ years,Intermediate,Night,84,60.88932252817164,High
+2017,West Bengal,Purulia,Purulia Coal Mine,Underground,Haul Road,Fall of person,Heavy Earth Moving Machinery,7,0,23,<1 year,Intermediate,Night,55,108.24869984033951,Very High
+2017,West Bengal,Purulia,Purulia Coal Mine,Opencast,Face,Roof fall,Drill,3,0,38,5–10 years,Intermediate,Afternoon,91,52.66014106883464,Moderate
+2017,West Bengal,Purulia,Purulia Coal Mine,Underground,Face,Blasting accident,Loader,3,0,46,10+ years,Intermediate,Morning,71,73.65514380364883,High
+2018,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Stockyard,Vehicle rollover,Truck,3,0,23,<1 year,Certified,Afternoon,75,69.06019074522419,High
+2018,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Workshop,Roof fall,Dumper,7,0,30,3–5 years,Basic,Morning,67,102.6109259626189,Very High
+2018,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Excavation Area,Fall of person,Drill,6,0,31,3–5 years,,Morning,53,,Very High
+2018,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Stockyard,Machinery collision,Truck,8,0,18,1–3 years,Intermediate,Night,78,87.34226256072239,Very High
+2018,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Excavation Area,Side fall,Excavator,4,0,48,10+ years,Intermediate,Morning,73,67.61600705397281,High
+2018,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Haul Road,Side fall,Excavator,5,1,39,10+ years,Basic,Afternoon,82,89.8055650052232,Very High
+2018,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Excavation Area,Side fall,,3,0,21,3–5 years,Certified,Afternoon,77,,Very High
+2018,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Side fall,Drill,7,0,18,<1 year,Intermediate,Night,35,108.03587688197307,Very High
+2018,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Haul Road,Electrical accident,Heavy Earth Moving Machinery,10,0,18,<1 year,Certified,Night,55,108.90869914184971,Very High
+2018,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Workshop,Roof fall,Loader,3,0,18,<1 year,Intermediate,Morning,66,77.65272557303996,High
+2018,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Stockyard,Explosion,Loader,7,0,25,1–3 years,,Morning,40,,Very High
+2018,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,6,0,26,1–3 years,Intermediate,Night,71,86.92749655754528,Very High
+2018,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Excavation Area,Vehicle rollover,Excavator,3,0,24,1–3 years,Advanced,Morning,81,73.85863426669403,High
+2018,Jharkhand,Giridih,Giridih Coalfield,Opencast,Workshop,Vehicle rollover,Heavy Earth Moving Machinery,4,0,30,3–5 years,Intermediate,Morning,71,61.130939229633,High
+2018,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Roof fall,Dumper,5,0,36,5–10 years,Advanced,Afternoon,86,76.34504076149805,High
+2018,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Face,Gas leakage,Dumper,7,0,39,10+ years,,Night,44,,Very High
+2018,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Excavation Area,Roof fall,Excavator,3,0,49,10+ years,,Morning,79,,Very High
+2018,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Workshop,Blasting accident,Dumper,8,0,21,1–3 years,,Afternoon,45,,Very High
+2018,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Haul Road,Machinery collision,Dumper,8,0,28,5–10 years,,Afternoon,74,,Very High
+2018,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Face,Vehicle rollover,Loader,2,0,41,10+ years,Certified,Night,100,40.689020888282776,Moderate
+2018,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Stockyard,Roof fall,Truck,3,0,26,1–3 years,Advanced,Morning,89,54.538785162960124,Moderate
+2018,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Workshop,Machinery collision,Drill,5,0,28,<1 year,Advanced,Morning,50,66.7183909957387,High
+2018,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Haul Road,Electrical accident,Dumper,9,0,18,1–3 years,Intermediate,Afternoon,64,96.47853347313146,Very High
+2018,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Haul Road,Fire,Truck,12,0,31,3–5 years,,Night,55,,Very High
+2018,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Excavation Area,Roof fall,Truck,5,0,21,1–3 years,Advanced,Morning,74,69.58228735961526,High
+2018,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Shaft,Gas leakage,Heavy Earth Moving Machinery,10,1,26,1–3 years,Basic,Night,49,137.79359860957675,Very High
+2018,Odisha,Angul,Talcher Coal Mine,Underground,Haul Road,Electrical accident,Dumper,4,0,21,1–3 years,Advanced,Night,94,86.97577635730131,Very High
+2018,Odisha,Angul,Talcher Coal Mine,Underground,Face,Roof fall,Loader,6,0,22,<1 year,Advanced,Morning,56,91.13567608927204,Very High
+2018,Odisha,Angul,Talcher Coal Mine,Underground,Face,Blasting accident,Dumper,8,0,32,5–10 years,Basic,Night,75,91.89942965336957,Very High
+2018,Odisha,Angul,Talcher Coal Mine,Opencast,Excavation Area,Machinery collision,Loader,5,1,38,5–10 years,Intermediate,Afternoon,45,87.74581725907771,Very High
+2018,Odisha,Angul,Talcher Coal Mine,Underground,Face,Machinery collision,Excavator,7,0,28,1–3 years,Advanced,Night,77,80.55285414092646,High
+2018,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Face,Explosion,Heavy Earth Moving Machinery,4,0,32,5–10 years,,Morning,79,,Very High
+2018,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Explosion,Loader,6,0,33,5–10 years,Basic,Morning,72,82.0299170462692,High
+2018,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Stockyard,Vehicle rollover,Dumper,3,0,34,5–10 years,Advanced,Morning,78,51.3410542341324,Moderate
+2018,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Vehicle rollover,Loader,5,0,30,<1 year,Advanced,Morning,51,89.61994911592183,Very High
+2018,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Face,Side fall,Truck,7,0,32,5–10 years,,Morning,51,,Very High
+2018,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Electrical accident,Drill,5,1,26,1–3 years,,Morning,32,,Very High
+2018,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Side fall,Drill,5,0,18,<1 year,,Morning,57,,Very High
+2018,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Shaft,Machinery collision,Heavy Earth Moving Machinery,8,0,30,<1 year,Intermediate,Night,56,111.70021875535618,Very High
+2018,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Excavation Area,Side fall,Loader,6,0,48,10+ years,Basic,Night,47,80.58668306970516,High
+2018,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Haul Road,Gas leakage,Truck,8,0,31,<1 year,,Morning,49,,Very High
+2018,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Shaft,Fire,Dumper,6,0,38,5–10 years,Basic,Afternoon,57,86.81992684384383,Very High
+2018,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,5,0,27,1–3 years,Certified,Night,82,84.15646418265982,High
+2018,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Workshop,Gas leakage,Excavator,4,0,21,<1 year,Intermediate,Night,53,88.4714477882191,Very High
+2018,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,3,0,33,3–5 years,Advanced,Morning,64,86.88862478805054,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Fall of person,Truck,8,0,43,10+ years,Basic,Night,59,99.52986104220459,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Vehicle rollover,Excavator,5,0,36,10+ years,,Morning,45,,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Haul Road,Side fall,,4,0,38,3–5 years,,Morning,72,,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Machinery collision,Excavator,7,0,22,<1 year,Basic,Night,48,107.86764459674649,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Fire,Heavy Earth Moving Machinery,7,0,18,1–3 years,Basic,Night,61,113.76932213752487,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Shaft,Fall of person,,4,0,32,3–5 years,Intermediate,Night,79,,Very High
+2018,Telangana,Peddapalli,Singareni Coal Mine,Underground,Shaft,Vehicle rollover,,5,0,28,1–3 years,Basic,Afternoon,93,,Very High
+2018,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Excavation Area,Roof fall,Heavy Earth Moving Machinery,7,1,36,5–10 years,,Afternoon,43,,Very High
+2018,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Face,Fire,Dumper,11,0,18,<1 year,,Night,29,,Very High
+2018,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Stockyard,Fall of person,Dumper,7,0,37,5–10 years,Basic,Night,67,65.23493063972371,High
+2018,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Stockyard,Electrical accident,Excavator,3,0,26,5–10 years,Intermediate,Afternoon,68,51.70244943466284,Moderate
+2018,West Bengal,Purulia,Purulia Coal Mine,Underground,Shaft,Blasting accident,,7,0,38,3–5 years,,Morning,46,,Very High
+2019,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Fall of person,Dumper,4,0,29,1–3 years,Basic,Afternoon,56,87.6088672721406,Very High
+2019,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Haul Road,Explosion,Drill,9,0,24,1–3 years,Basic,Afternoon,34,121.92964521572655,Very High
+2019,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Shaft,Vehicle rollover,Drill,5,0,33,3–5 years,Intermediate,Night,49,85.67943448815747,Very High
+2019,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Excavation Area,Side fall,Excavator,4,0,28,1–3 years,Intermediate,Afternoon,64,67.63982205321207,High
+2019,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Side fall,Dumper,6,0,23,3–5 years,Basic,Night,73,98.32296230914436,Very High
+2019,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Machinery collision,Loader,5,0,28,1–3 years,Intermediate,Afternoon,84,83.16509315626446,High
+2019,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Stockyard,Fire,Heavy Earth Moving Machinery,5,0,23,<1 year,Advanced,Morning,63,73.05655139528224,High
+2019,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Haul Road,Fire,Truck,5,0,26,1–3 years,,Morning,69,,Very High
+2019,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Face,Machinery collision,Excavator,3,0,46,10+ years,Intermediate,Afternoon,87,49.24093224407835,Moderate
+2019,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Workshop,Machinery collision,Drill,4,0,22,<1 year,Intermediate,Morning,69,66.47396539580821,High
+2019,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Face,Vehicle rollover,Truck,6,0,27,<1 year,Intermediate,Afternoon,61,90.44841389705307,Very High
+2019,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Workshop,Explosion,Drill,4,0,36,3–5 years,Certified,Night,93,54.59623878229388,Moderate
+2019,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Excavation Area,Blasting accident,Excavator,5,0,51,10+ years,Intermediate,Morning,85,51.59913249136482,Moderate
+2019,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Excavation Area,Explosion,Heavy Earth Moving Machinery,4,1,21,<1 year,Intermediate,Afternoon,69,101.67920833996008,Very High
+2019,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Face,Blasting accident,,5,0,34,1–3 years,,Night,57,,Very High
+2019,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Excavation Area,Fall of person,Dumper,5,0,23,3–5 years,Basic,Night,58,95.254069381005,Very High
+2019,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Electrical accident,Loader,7,0,25,3–5 years,Intermediate,Morning,62,87.8485226980842,Very High
+2019,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Workshop,Fire,Excavator,3,0,32,5–10 years,Basic,Morning,60,68.34406726458141,High
+2019,Jharkhand,Giridih,Giridih Coalfield,Underground,Face,Explosion,Loader,3,0,24,1–3 years,Advanced,Morning,67,75.24873800469261,High
+2019,Jharkhand,Giridih,Giridih Coalfield,Underground,Excavation Area,Roof fall,Heavy Earth Moving Machinery,3,0,37,1–3 years,Intermediate,Afternoon,71,99.13213349862507,Very High
+2019,Jharkhand,Giridih,Giridih Coalfield,Underground,Excavation Area,Explosion,Drill,9,0,30,5–10 years,Intermediate,Afternoon,77,76.39164880191,High
+2019,Jharkhand,Giridih,Giridih Coalfield,Opencast,Stockyard,Explosion,Drill,5,0,38,10+ years,Basic,Afternoon,82,60.59285961985767,High
+2019,Jharkhand,Ramgarh,Central Coal Mine,Underground,Shaft,Fall of person,,5,0,25,1–3 years,Basic,Afternoon,56,,Very High
+2019,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Haul Road,Machinery collision,Truck,5,0,21,<1 year,Basic,Night,51,101.72396747094012,Very High
+2019,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Excavation Area,Roof fall,Drill,6,0,31,3–5 years,,Night,56,,Very High
+2019,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Stockyard,Vehicle rollover,Drill,4,0,34,3–5 years,Basic,Morning,59,62.5675109985709,High
+2019,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Face,Side fall,Heavy Earth Moving Machinery,7,0,31,5–10 years,Advanced,Afternoon,88,78.82799626136466,High
+2019,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Haul Road,Roof fall,Excavator,5,0,25,<1 year,Advanced,Afternoon,59,88.04254097222316,Very High
+2019,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Excavation Area,Blasting accident,Dumper,5,0,27,1–3 years,Advanced,Morning,73,85.19840838808409,Very High
+2019,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Haul Road,Machinery collision,Dumper,4,0,32,1–3 years,Intermediate,Afternoon,63,80.22806194386018,High
+2019,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Face,Gas leakage,,5,0,23,<1 year,Advanced,Night,75,,Very High
+2019,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Face,Machinery collision,,4,0,21,1–3 years,Basic,Afternoon,60,,Very High
+2019,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Excavation Area,Explosion,Drill,5,0,25,5–10 years,,Morning,52,,Very High
+2019,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Face,Roof fall,Loader,3,0,32,5–10 years,Certified,Morning,90,48.25144847535584,Moderate
+2019,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Excavation Area,Roof fall,Heavy Earth Moving Machinery,5,0,23,<1 year,Certified,Morning,81,84.11851536769444,High
+2019,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Shaft,Machinery collision,Drill,3,0,35,3–5 years,Certified,Afternoon,75,59.68401995631171,Moderate
+2019,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Face,Electrical accident,,6,0,20,<1 year,Certified,Morning,66,,Very High
+2019,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Haul Road,Explosion,Truck,6,0,31,5–10 years,Advanced,Night,77,98.18917442049305,Very High
+2019,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,6,0,34,10+ years,,Afternoon,64,,Very High
+2019,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Workshop,Gas leakage,Heavy Earth Moving Machinery,6,0,41,10+ years,Basic,Night,52,105.11639362414341,Very High
+2019,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Haul Road,Machinery collision,Truck,6,0,23,1–3 years,Certified,Night,62,96.66930953323514,Very High
+2019,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Face,Fall of person,Excavator,3,0,35,5–10 years,Basic,Night,84,77.51065958315371,High
+2019,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Shaft,Vehicle rollover,,2,0,45,10+ years,Advanced,Night,85,,Very High
+2019,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Side fall,Loader,5,0,36,5–10 years,Basic,Night,80,86.18838952468015,Very High
+2019,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Excavation Area,Roof fall,Excavator,4,0,27,5–10 years,Basic,Night,71,70.79122939026442,High
+2019,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Haul Road,Gas leakage,Loader,7,0,30,1–3 years,Certified,Afternoon,64,92.52927518709113,Very High
+2019,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Gas leakage,Dumper,3,0,18,1–3 years,Intermediate,Afternoon,75,92.39510740794876,Very High
+2019,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Stockyard,Machinery collision,,3,0,23,1–3 years,Advanced,Night,56,,Very High
+2019,Odisha,Angul,Talcher Coal Mine,Underground,Excavation Area,Fire,Truck,6,0,33,5–10 years,Certified,Night,83,85.05403854400255,Very High
+2019,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Excavation Area,Roof fall,Excavator,3,0,27,1–3 years,Basic,Morning,59,75.62191522861733,High
+2019,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Side fall,Dumper,5,0,29,1–3 years,Basic,Morning,54,96.48401536653104,Very High
+2019,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Roof fall,Heavy Earth Moving Machinery,8,0,32,3–5 years,Intermediate,Night,54,112.12781188517987,Very High
+2019,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Roof fall,Dumper,3,0,26,3–5 years,Advanced,Afternoon,93,67.55893297362617,High
+2019,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Stockyard,Gas leakage,Heavy Earth Moving Machinery,7,0,39,10+ years,Basic,Night,50,110.29666540995377,Very High
+2019,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,5,0,26,1–3 years,Basic,Night,46,98.07942778252925,Very High
+2019,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Excavation Area,Explosion,Loader,2,0,42,3–5 years,Certified,Afternoon,95,65.38798385997087,High
+2019,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Face,Gas leakage,Heavy Earth Moving Machinery,9,0,27,1–3 years,,Afternoon,47,,Very High
+2019,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Stockyard,Fall of person,,5,1,18,<1 year,Advanced,Afternoon,65,,Very High
+2019,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Haul Road,Fire,Dumper,6,0,27,1–3 years,,Morning,55,,Very High
+2019,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Excavation Area,Roof fall,Drill,3,0,27,3–5 years,Certified,Night,74,53.375930474001194,Moderate
+2019,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Stockyard,Fire,Dumper,6,0,30,1–3 years,Advanced,Morning,64,66.54324554884907,High
+2019,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,5,0,34,3–5 years,Basic,Afternoon,64,91.03244349400028,Very High
+2019,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Excavation Area,Roof fall,Truck,3,0,41,10+ years,Advanced,Night,100,71.16665077585175,High
+2019,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Workshop,Side fall,Heavy Earth Moving Machinery,7,0,25,1–3 years,Intermediate,Afternoon,59,100.89647926820862,Very High
+2019,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Excavation Area,Roof fall,Dumper,7,0,24,3–5 years,,Night,40,,Very High
+2019,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Excavation Area,Blasting accident,,5,0,20,1–3 years,Intermediate,Afternoon,58,,Very High
+2019,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Workshop,Fire,Excavator,5,0,28,1–3 years,Intermediate,Night,66,84.01098251405666,High
+2019,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Shaft,Machinery collision,,5,0,33,3–5 years,,Morning,25,,Very High
+2019,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Haul Road,Machinery collision,Heavy Earth Moving Machinery,7,1,19,1–3 years,,Morning,34,,Very High
+2019,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Gas leakage,Truck,2,0,38,1–3 years,Certified,Night,89,88.30047893367102,Very High
+2019,Telangana,Peddapalli,Singareni Coal Mine,Underground,Excavation Area,Roof fall,Dumper,4,0,20,1–3 years,Intermediate,Night,61,95.01177047399143,Very High
+2019,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,8,0,28,<1 year,Intermediate,Afternoon,44,102.09801121282996,Very High
+2019,Uttar Pradesh,Mirzapur,Obra Coal Mine,Opencast,Face,Side fall,,4,1,33,3–5 years,,Night,50,,Very High
+2019,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Haul Road,Machinery collision,Dumper,5,1,18,1–3 years,,Night,45,,Very High
+2019,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,3,0,24,<1 year,Certified,Night,72,85.9451017887841,Very High
+2019,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Stockyard,Fall of person,Truck,4,0,36,10+ years,Certified,Night,100,56.711118417734276,Moderate
+2019,West Bengal,Bankura,Bankura Coal Mine,Underground,Excavation Area,Blasting accident,Drill,5,0,38,10+ years,Basic,Night,83,78.77474884596765,High
+2019,West Bengal,Bankura,Bankura Coal Mine,Opencast,Workshop,Machinery collision,Truck,6,1,51,10+ years,Certified,Night,79,74.3798662844349,High
+2019,West Bengal,Bankura,Bankura Coal Mine,Underground,Excavation Area,Explosion,Excavator,8,0,18,1–3 years,,Morning,61,,Very High
+2020,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Fall of person,Excavator,3,0,23,<1 year,Advanced,Afternoon,74,70.51584677752672,High
+2020,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Fall of person,,3,0,43,10+ years,,Night,65,,Very High
+2020,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Fall of person,Heavy Earth Moving Machinery,7,0,24,<1 year,Basic,Afternoon,39,107.60766263401071,Very High
+2020,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Stockyard,Explosion,Loader,3,0,48,10+ years,Advanced,Night,86,64.97014490249377,High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Face,Side fall,Truck,7,0,43,10+ years,,Afternoon,39,,Very High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Fall of person,Loader,4,0,28,5–10 years,Advanced,Afternoon,79,64.54621139315262,High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Workshop,Gas leakage,Dumper,3,0,22,<1 year,Advanced,Morning,77,78.44363026239202,High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Haul Road,Fire,Heavy Earth Moving Machinery,5,0,22,<1 year,Intermediate,Night,48,110.70142486779821,Very High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Side fall,Excavator,6,0,18,1–3 years,,Night,47,,Very High
+2020,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Workshop,Electrical accident,Heavy Earth Moving Machinery,9,0,30,5–10 years,,Morning,44,,Very High
+2020,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,7,0,29,5–10 years,Intermediate,Night,82,84.12393516838925,High
+2020,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Gas leakage,,4,0,22,<1 year,Basic,Night,52,,Very High
+2020,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Excavation Area,Fall of person,Loader,8,0,23,1–3 years,Intermediate,Night,45,89.92594745603044,Very High
+2020,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Workshop,Machinery collision,Drill,4,0,38,10+ years,,Afternoon,76,,Very High
+2020,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Workshop,Electrical accident,Truck,8,1,29,3–5 years,Intermediate,Night,34,120.69087424135236,Very High
+2020,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Face,Explosion,Heavy Earth Moving Machinery,10,0,25,1–3 years,,Morning,33,,Very High
+2020,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Face,Gas leakage,,4,0,38,10+ years,Basic,Afternoon,62,,Very High
+2020,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Haul Road,Blasting accident,Truck,4,0,22,<1 year,Advanced,Night,63,97.93095565201031,Very High
+2020,Jharkhand,Giridih,Giridih Coalfield,Underground,Haul Road,Machinery collision,Truck,6,0,33,5–10 years,Basic,Afternoon,41,104.16495940617257,Very High
+2020,Jharkhand,Giridih,Giridih Coalfield,Underground,Excavation Area,Vehicle rollover,Dumper,8,0,29,1–3 years,Basic,Afternoon,54,106.00684688839577,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Underground,Workshop,Gas leakage,Loader,6,1,49,10+ years,Intermediate,Afternoon,70,94.76057596684446,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Underground,Shaft,Blasting accident,Excavator,5,0,19,1–3 years,Basic,Morning,63,88.19511811245665,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Fire,Truck,4,0,28,3–5 years,,Morning,59,,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Gas leakage,Truck,8,0,18,<1 year,Advanced,Night,55,113.05036960312718,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Face,Vehicle rollover,,4,0,35,1–3 years,Advanced,Afternoon,76,,Very High
+2020,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Face,Gas leakage,Drill,3,0,37,5–10 years,,Afternoon,68,,Very High
+2020,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Workshop,Fire,Drill,6,0,37,5–10 years,Basic,Night,57,76.29804069703577,High
+2020,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Haul Road,Machinery collision,Truck,3,0,25,1–3 years,Intermediate,Morning,76,71.59199316498179,High
+2020,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Shaft,Vehicle rollover,Dumper,5,0,24,3–5 years,Basic,Afternoon,68,85.60457443118017,Very High
+2020,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Excavation Area,Blasting accident,Truck,2,0,31,5–10 years,Intermediate,Night,95,69.83708330434082,High
+2020,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Workshop,Fall of person,Dumper,5,0,26,3–5 years,,Morning,36,,Very High
+2020,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Workshop,Machinery collision,Loader,6,0,24,<1 year,Basic,Afternoon,45,83.93060974844781,High
+2020,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Workshop,Machinery collision,Excavator,6,0,22,3–5 years,Basic,Morning,40,78.48928254688272,High
+2020,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Face,Side fall,,5,0,41,10+ years,Intermediate,Night,81,,Very High
+2020,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Haul Road,Gas leakage,Loader,5,0,32,5–10 years,,Morning,47,,Very High
+2020,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Haul Road,Explosion,Dumper,5,0,22,<1 year,Advanced,Morning,64,79.1668068585794,High
+2020,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Excavation Area,Electrical accident,,4,0,32,10+ years,Certified,Night,74,,Very High
+2020,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Side fall,Heavy Earth Moving Machinery,5,0,20,1–3 years,Advanced,Morning,59,87.00242941822391,Very High
+2020,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Excavation Area,Fall of person,Loader,5,0,28,1–3 years,Basic,Afternoon,42,87.70441710276077,Very High
+2020,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Excavation Area,Side fall,Truck,5,0,28,3–5 years,Basic,Afternoon,39,89.29697991327696,Very High
+2020,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Haul Road,Fall of person,Truck,5,0,35,5–10 years,Basic,Afternoon,59,78.36346935378522,High
+2020,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Haul Road,Explosion,Truck,4,0,41,5–10 years,Certified,Morning,87,74.80157514590483,High
+2020,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,5,0,48,10+ years,Certified,Night,77,73.56702390310863,High
+2020,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,4,0,19,<1 year,Intermediate,Afternoon,51,96.10468335686355,Very High
+2020,Odisha,Angul,Talcher Coal Mine,Underground,Haul Road,Fall of person,Heavy Earth Moving Machinery,5,0,21,1–3 years,Basic,Night,50,114.8016953527442,Very High
+2020,Odisha,Angul,Talcher Coal Mine,Opencast,Excavation Area,Roof fall,Truck,7,0,28,<1 year,Advanced,Night,78,82.49238537735039,High
+2020,Odisha,Angul,Talcher Coal Mine,Underground,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,5,0,44,5–10 years,Basic,Night,61,95.00634131460656,Very High
+2020,Odisha,Angul,Talcher Coal Mine,Underground,Face,Roof fall,,6,0,36,3–5 years,Certified,Night,78,,Very High
+2020,Odisha,Angul,Talcher Coal Mine,Opencast,Excavation Area,Roof fall,Excavator,5,0,35,10+ years,Certified,Afternoon,71,49.31906717191743,Moderate
+2020,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Shaft,Side fall,,5,0,18,<1 year,Intermediate,Night,57,,Very High
+2020,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Roof fall,Loader,6,0,37,<1 year,Certified,Afternoon,83,83.51776048288515,High
+2020,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Gas leakage,Heavy Earth Moving Machinery,9,1,22,1–3 years,Basic,Morning,43,130.9232973915812,Very High
+2020,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Excavation Area,Vehicle rollover,Excavator,3,0,19,1–3 years,Intermediate,Morning,58,58.947461883636485,Moderate
+2020,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Side fall,Excavator,4,0,30,1–3 years,Basic,Night,48,102.21548949666165,Very High
+2020,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Shaft,Vehicle rollover,Truck,4,0,25,3–5 years,Advanced,Afternoon,71,83.14184061898952,High
+2020,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Excavation Area,Gas leakage,Excavator,8,0,27,1–3 years,Basic,Afternoon,49,110.35126524789385,Very High
+2020,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Shaft,Fire,,4,0,20,<1 year,Basic,Night,50,,Very High
+2020,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Face,Roof fall,Drill,3,0,24,3–5 years,Certified,Morning,87,40.80249990818491,Moderate
+2020,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Shaft,Fire,Drill,4,0,23,3–5 years,Basic,Morning,83,71.82097479887273,High
+2020,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Haul Road,Fall of person,Truck,7,0,18,<1 year,Intermediate,Afternoon,54,104.58792237505898,Very High
+2020,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Excavation Area,Side fall,Truck,9,0,18,<1 year,,Night,56,,Very High
+2020,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Workshop,Electrical accident,Heavy Earth Moving Machinery,6,0,23,<1 year,,Morning,40,,Very High
+2020,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Haul Road,Machinery collision,Truck,5,0,18,<1 year,Intermediate,Night,58,101.52951828246962,Very High
+2020,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Gas leakage,,5,0,30,5–10 years,Basic,Night,66,,Very High
+2020,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,4,0,26,1–3 years,Certified,Night,65,90.48118252684759,Very High
+2020,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Face,Vehicle rollover,Truck,4,0,39,10+ years,Intermediate,Night,94,78.457755336235,High
+2020,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Stockyard,Explosion,,5,0,22,1–3 years,Intermediate,Afternoon,59,,Very High
+2020,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Shaft,Explosion,Dumper,9,0,23,<1 year,Advanced,Night,60,107.50143163264852,Very High
+2020,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Excavation Area,Vehicle rollover,,5,0,26,3–5 years,Intermediate,Night,62,,Very High
+2020,Telangana,Peddapalli,Singareni Coal Mine,Underground,Face,Gas leakage,Loader,9,0,22,<1 year,Intermediate,Night,55,118.11070728759404,Very High
+2020,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Face,Explosion,Loader,7,0,21,<1 year,Basic,Morning,46,108.92925604791836,Very High
+2020,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Excavation Area,Side fall,Dumper,5,0,24,3–5 years,Intermediate,Afternoon,65,83.00605385377378,High
+2020,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Opencast,Excavation Area,Explosion,Excavator,5,0,24,3–5 years,Basic,Night,70,88.20460790209009,Very High
+2020,West Bengal,Bankura,Bankura Coal Mine,Underground,Face,Fall of person,,7,0,39,3–5 years,,Afternoon,48,,Very High
+2020,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Excavation Area,Explosion,Heavy Earth Moving Machinery,7,0,28,1–3 years,Certified,Night,93,97.5171887362553,Very High
+2020,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Haul Road,Fire,Dumper,9,0,32,3–5 years,Basic,Afternoon,50,111.27007392564043,Very High
+2020,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Haul Road,Electrical accident,Loader,3,0,35,5–10 years,Advanced,Afternoon,66,69.84299169952794,High
+2020,West Bengal,Purulia,Purulia Coal Mine,Opencast,Workshop,Vehicle rollover,Excavator,6,0,34,1–3 years,Intermediate,Afternoon,52,83.22136336977282,High
+2021,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Workshop,Fall of person,Drill,5,0,29,<1 year,Certified,Afternoon,89,47.404143406083705,Moderate
+2021,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Machinery collision,Truck,5,0,18,1–3 years,Intermediate,Morning,76,86.48628380381741,Very High
+2021,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Excavation Area,Blasting accident,Excavator,5,0,34,3–5 years,Intermediate,Afternoon,63,76.38150379834059,High
+2021,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Face,Side fall,Dumper,4,0,25,3–5 years,Intermediate,Night,51,101.0745262301294,Very High
+2021,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Vehicle rollover,Excavator,6,0,20,<1 year,Intermediate,Afternoon,64,85.5403061576796,Very High
+2021,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Excavation Area,Side fall,Excavator,7,0,25,3–5 years,Basic,Night,66,83.34420583999375,High
+2021,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,5,0,41,5–10 years,Certified,Afternoon,91,74.83369794739835,High
+2021,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Stockyard,Vehicle rollover,Dumper,5,0,22,<1 year,Advanced,Night,60,74.96504205430755,High
+2021,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Excavation Area,Vehicle rollover,Truck,5,0,36,10+ years,Basic,Morning,55,70.2669659493369,High
+2021,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Face,Side fall,Dumper,6,1,35,5–10 years,,Afternoon,61,,Very High
+2021,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Excavation Area,Machinery collision,Truck,6,0,27,1–3 years,,Morning,25,,Very High
+2021,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Stockyard,Electrical accident,Truck,4,0,27,5–10 years,Intermediate,Morning,77,61.07016902318385,High
+2021,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Workshop,Machinery collision,Truck,3,0,35,10+ years,Advanced,Night,73,66.8094282083841,High
+2021,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Haul Road,Machinery collision,Loader,7,0,33,3–5 years,Intermediate,Night,64,95.6963791216791,Very High
+2021,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Stockyard,Blasting accident,Loader,5,0,39,10+ years,Basic,Night,80,89.51446218228517,Very High
+2021,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Stockyard,Machinery collision,Truck,5,0,18,<1 year,Intermediate,Night,74,87.87959416714044,Very High
+2021,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Face,Roof fall,Excavator,2,0,38,10+ years,Intermediate,Morning,94,35.58647024257938,Moderate
+2021,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Face,Fall of person,Truck,9,0,21,1–3 years,Certified,Night,72,92.97780920441353,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Excavation Area,Blasting accident,Truck,9,0,28,1–3 years,Certified,Morning,77,89.73626179575723,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Excavation Area,Roof fall,Dumper,5,0,25,1–3 years,Basic,Afternoon,75,90.86922100762362,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Face,Blasting accident,,7,0,21,1–3 years,,Morning,41,,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Fall of person,,4,0,28,3–5 years,Basic,Morning,67,,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Stockyard,Side fall,Loader,3,0,31,5–10 years,,Afternoon,52,,Very High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Haul Road,Vehicle rollover,Truck,6,0,36,10+ years,Advanced,Night,67,80.87869019532016,High
+2021,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Face,Gas leakage,Excavator,4,0,20,1–3 years,Advanced,Morning,65,68.4663929843874,High
+2021,Jharkhand,Giridih,Giridih Coalfield,Opencast,Haul Road,Fire,Truck,4,0,23,1–3 years,Intermediate,Night,77,81.44048085469058,High
+2021,Jharkhand,Giridih,Giridih Coalfield,Underground,Workshop,Machinery collision,Excavator,4,0,41,10+ years,Basic,Night,76,70.54453233065323,High
+2021,Jharkhand,Ramgarh,Central Coal Mine,Underground,Shaft,Roof fall,Heavy Earth Moving Machinery,4,0,33,5–10 years,Certified,Afternoon,95,67.76314591244419,High
+2021,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Face,Blasting accident,Drill,2,0,39,10+ years,Intermediate,Afternoon,92,47.949283610907315,Moderate
+2021,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Side fall,Excavator,7,0,35,3–5 years,Basic,Night,67,97.02056928200496,Very High
+2021,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Fall of person,Heavy Earth Moving Machinery,4,0,34,10+ years,Basic,Morning,55,81.05709581465783,High
+2021,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Stockyard,Gas leakage,Dumper,5,0,53,10+ years,Intermediate,Night,83,71.81618606207138,High
+2021,Jharkhand,Ramgarh,Central Coal Mine,Underground,Stockyard,Gas leakage,Dumper,4,0,25,5–10 years,Certified,Morning,83,63.67896952651024,High
+2021,Madhya Pradesh,Betul,Pathakhera Coal Mine,Opencast,Workshop,Electrical accident,Loader,4,0,20,<1 year,Intermediate,Afternoon,64,67.22850867095063,High
+2021,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,7,0,34,<1 year,Certified,Night,67,101.77187856018178,Very High
+2021,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Excavation Area,Vehicle rollover,Truck,4,0,23,1–3 years,Intermediate,Night,62,81.0590307103225,High
+2021,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Haul Road,Vehicle rollover,Drill,3,0,26,<1 year,Intermediate,Night,81,80.38540277861127,High
+2021,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Excavation Area,Blasting accident,Dumper,7,0,32,1–3 years,,Night,58,,Very High
+2021,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Excavation Area,Roof fall,,4,0,18,<1 year,Advanced,Morning,69,,Very High
+2021,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Shaft,Explosion,Loader,4,0,39,10+ years,Intermediate,Morning,90,69.14105420788691,High
+2021,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,3,0,31,3–5 years,Advanced,Night,76,83.80109796802965,High
+2021,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Excavation Area,Machinery collision,Excavator,6,0,24,1–3 years,Basic,Afternoon,46,96.45591964293688,Very High
+2021,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Haul Road,Machinery collision,Dumper,1,0,40,10+ years,Advanced,Morning,99,51.95068780123668,Moderate
+2021,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Haul Road,Blasting accident,Dumper,6,0,38,10+ years,,Morning,56,,Very High
+2021,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Workshop,Electrical accident,Loader,3,0,34,3–5 years,Certified,Afternoon,86,49.0566668001737,Moderate
+2021,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Shaft,Machinery collision,,2,0,34,5–10 years,Intermediate,Morning,90,,Very High
+2021,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Excavation Area,Electrical accident,Excavator,7,0,28,<1 year,Intermediate,Morning,57,84.0779954095579,High
+2021,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Haul Road,Machinery collision,Dumper,3,0,18,<1 year,Certified,Morning,65,64.69672703742128,High
+2021,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Workshop,Electrical accident,Excavator,4,0,26,3–5 years,Intermediate,Morning,63,67.69979321139343,High
+2021,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Face,Vehicle rollover,Excavator,7,0,32,10+ years,Intermediate,Afternoon,64,71.19231534105766,High
+2021,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Shaft,Explosion,Heavy Earth Moving Machinery,6,0,24,1–3 years,Certified,Night,83,90.73923575120578,Very High
+2021,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Face,Gas leakage,Drill,6,0,26,1–3 years,Advanced,Night,64,83.86749706977811,High
+2021,Odisha,Angul,Talcher Coal Mine,Opencast,Excavation Area,Machinery collision,Excavator,2,0,44,10+ years,Advanced,Night,73,59.379870854005134,Moderate
+2021,Odisha,Angul,Talcher Coal Mine,Underground,Face,Gas leakage,Truck,5,0,45,10+ years,Advanced,Night,93,78.80385584177448,High
+2021,Odisha,Angul,Talcher Coal Mine,Underground,Excavation Area,Electrical accident,Excavator,5,0,39,1–3 years,Certified,Morning,83,64.10622785222306,High
+2021,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Shaft,Fire,,3,0,42,10+ years,Intermediate,Night,77,,Very High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Excavation Area,Explosion,Dumper,4,0,35,3–5 years,Basic,Night,54,104.71552323382096,Very High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Workshop,Blasting accident,Excavator,4,0,26,<1 year,Advanced,Night,66,79.0782996457383,High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Vehicle rollover,Heavy Earth Moving Machinery,6,0,31,5–10 years,Certified,Night,91,80.08832963407693,High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Face,Blasting accident,Heavy Earth Moving Machinery,5,0,43,10+ years,Intermediate,Night,67,80.3778382375983,High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Stockyard,Explosion,Loader,8,0,33,1–3 years,Basic,Afternoon,51,88.17421471896971,Very High
+2021,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Gas leakage,Excavator,3,0,33,5–10 years,Intermediate,Morning,67,75.0138545434689,High
+2021,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Stockyard,Fire,,3,0,44,10+ years,Intermediate,Night,88,,Very High
+2021,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Excavation Area,Electrical accident,Drill,2,0,32,5–10 years,Advanced,Night,92,50.510985161609305,Moderate
+2021,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Face,Side fall,,4,0,20,<1 year,Basic,Night,38,,Very High
+2021,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Shaft,Fall of person,,4,1,19,<1 year,Basic,Afternoon,57,,Very High
+2021,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Shaft,Blasting accident,Heavy Earth Moving Machinery,3,0,41,10+ years,Advanced,Morning,87,77.94856654029026,High
+2021,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Excavation Area,Fall of person,,3,0,33,5–10 years,Advanced,Morning,86,,Very High
+2021,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Shaft,Electrical accident,Heavy Earth Moving Machinery,7,1,44,10+ years,,Night,48,,Very High
+2021,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Stockyard,Roof fall,Loader,6,0,32,<1 year,Basic,Morning,25,99.9197765555601,Very High
+2021,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Stockyard,Fall of person,Excavator,4,0,30,5–10 years,,Afternoon,61,,Very High
+2021,Telangana,Peddapalli,Singareni Coal Mine,Underground,Excavation Area,Roof fall,Loader,7,0,37,5–10 years,Basic,Night,65,91.55486319468694,Very High
+2021,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Face,Machinery collision,Excavator,7,0,18,3–5 years,,Afternoon,47,,Very High
+2021,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Vehicle rollover,Loader,3,0,39,5–10 years,,Afternoon,61,,Very High
+2021,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Fire,Dumper,5,1,23,1–3 years,Basic,Morning,50,102.85101538269417,Very High
+2021,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Excavation Area,Side fall,Excavator,5,0,40,3–5 years,Advanced,Morning,63,59.03864528766557,Moderate
+2021,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Haul Road,Gas leakage,Truck,7,0,30,<1 year,,Night,27,,Very High
+2021,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Face,Side fall,Excavator,3,0,39,10+ years,Intermediate,Afternoon,74,61.86880107614266,High
+2021,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Workshop,Fall of person,Excavator,5,0,39,1–3 years,Advanced,Afternoon,68,75.50471019012656,High
+2021,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,4,0,37,3–5 years,Certified,Night,81,88.23766656188052,Very High
+2021,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,3,0,22,<1 year,Advanced,Morning,80,75.40572970472344,High
+2021,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Shaft,Blasting accident,Heavy Earth Moving Machinery,9,1,27,<1 year,,Morning,36,,Very High
+2021,West Bengal,Bankura,Bankura Coal Mine,Underground,Stockyard,Machinery collision,Heavy Earth Moving Machinery,4,0,28,1–3 years,Basic,Afternoon,60,93.39742972351269,Very High
+2021,West Bengal,Bankura,Bankura Coal Mine,Underground,Face,Side fall,,6,0,18,1–3 years,Advanced,Night,58,,Very High
+2021,West Bengal,Purulia,Purulia Coal Mine,Underground,Excavation Area,Machinery collision,Drill,10,0,22,1–3 years,Advanced,Morning,63,78.43042430304452,High
+2021,West Bengal,Purulia,Purulia Coal Mine,Opencast,Haul Road,Machinery collision,Loader,3,0,34,5–10 years,,Afternoon,81,,Very High
+2021,West Bengal,Purulia,Purulia Coal Mine,Opencast,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,5,0,44,10+ years,Basic,Night,82,75.3940865117793,High
+2022,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Blasting accident,Drill,5,0,28,<1 year,Intermediate,Morning,63,81.47619953435584,High
+2022,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Face,Side fall,Drill,6,0,37,5–10 years,,Night,53,,Very High
+2022,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Face,Electrical accident,Excavator,2,0,25,1–3 years,Advanced,Afternoon,88,62.59904756220345,High
+2022,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,7,0,20,<1 year,Intermediate,Night,52,104.24420781253437,Very High
+2022,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Stockyard,Fall of person,Loader,4,0,21,<1 year,Certified,Afternoon,75,67.36974535183361,High
+2022,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Excavation Area,Explosion,Dumper,6,0,26,1–3 years,Basic,Afternoon,62,100.89291467772667,Very High
+2022,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Shaft,Machinery collision,,5,0,43,10+ years,Intermediate,Night,89,,Very High
+2022,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Workshop,Fire,Dumper,3,0,24,3–5 years,Advanced,Night,84,77.40366875049753,High
+2022,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Gas leakage,,6,0,44,10+ years,,Night,62,,Very High
+2022,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Haul Road,Explosion,Dumper,6,0,33,<1 year,Intermediate,Night,66,109.9973292217169,Very High
+2022,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Face,Electrical accident,,3,0,39,5–10 years,Intermediate,Afternoon,69,,Very High
+2022,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Workshop,Machinery collision,Heavy Earth Moving Machinery,5,0,28,<1 year,Basic,Night,49,90.72237887551452,Very High
+2022,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Face,Fire,Truck,5,0,21,3–5 years,,Afternoon,46,,Very High
+2022,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Excavation Area,Blasting accident,Loader,7,0,18,1–3 years,Intermediate,Night,77,80.54950496421661,High
+2022,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Workshop,Electrical accident,,2,0,42,3–5 years,Intermediate,Morning,82,,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Excavation Area,Roof fall,,5,0,39,5–10 years,Basic,Afternoon,72,,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Stockyard,Electrical accident,Truck,7,0,26,<1 year,Advanced,Morning,70,76.78047159734193,High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,8,0,24,1–3 years,Basic,Night,82,89.68983024846736,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Stockyard,Roof fall,Loader,6,0,31,<1 year,Intermediate,Night,42,105.39233978664554,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Face,Roof fall,,3,0,25,<1 year,Intermediate,Morning,63,,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Face,Gas leakage,Excavator,7,0,22,1–3 years,,Morning,48,,Very High
+2022,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Excavation Area,Gas leakage,Heavy Earth Moving Machinery,6,1,29,5–10 years,Basic,Morning,63,111.3543698351095,Very High
+2022,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Fall of person,Truck,2,0,30,5–10 years,Intermediate,Morning,87,60.553919750924166,High
+2022,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Fall of person,Excavator,3,0,39,5–10 years,Basic,Afternoon,59,77.13568080541074,High
+2022,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,7,0,27,<1 year,,Morning,49,,Very High
+2022,Jharkhand,Ramgarh,Central Coal Mine,Opencast,Haul Road,Electrical accident,Truck,4,0,19,<1 year,Certified,Morning,81,61.992655568791356,High
+2022,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Workshop,Blasting accident,Drill,6,0,29,5–10 years,Intermediate,Afternoon,94,66.58959468526567,High
+2022,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Shaft,Machinery collision,Drill,5,1,26,1–3 years,,Morning,29,,Very High
+2022,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Excavation Area,Vehicle rollover,,6,1,29,<1 year,Advanced,Afternoon,59,,Very High
+2022,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Haul Road,Machinery collision,Dumper,3,0,32,10+ years,Basic,Morning,77,77.22517123685776,High
+2022,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Excavation Area,Vehicle rollover,Drill,4,0,18,1–3 years,Advanced,Afternoon,62,61.89243252190741,High
+2022,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Excavation Area,Blasting accident,Dumper,8,0,20,1–3 years,Basic,Afternoon,55,111.34276844826057,Very High
+2022,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Excavation Area,Vehicle rollover,Excavator,3,0,41,10+ years,Intermediate,Afternoon,80,60.48117258136953,High
+2022,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Excavation Area,Machinery collision,,6,0,35,3–5 years,,Night,65,,Very High
+2022,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Excavation Area,Blasting accident,Loader,4,0,21,3–5 years,Advanced,Night,65,80.7662744826316,High
+2022,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Face,Roof fall,Dumper,4,0,24,1–3 years,Certified,Morning,98,54.913421999490836,Moderate
+2022,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,2,0,41,5–10 years,Certified,Afternoon,100,60.812418978118096,High
+2022,Odisha,Angul,Talcher Coal Mine,Underground,Face,Gas leakage,Dumper,5,0,50,10+ years,Advanced,Night,100,76.30828850872216,High
+2022,Odisha,Angul,Talcher Coal Mine,Underground,Stockyard,Fire,Truck,4,1,18,1–3 years,Advanced,Night,51,108.78781845582802,Very High
+2022,Odisha,Angul,Talcher Coal Mine,Underground,Haul Road,Explosion,Heavy Earth Moving Machinery,7,0,20,<1 year,Basic,Afternoon,47,125.68458349348523,Very High
+2022,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Excavation Area,Blasting accident,Heavy Earth Moving Machinery,4,0,20,1–3 years,,Afternoon,55,,Very High
+2022,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Fire,Truck,6,0,32,5–10 years,Intermediate,Night,88,91.1463591498916,Very High
+2022,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Excavation Area,Machinery collision,Loader,6,0,25,<1 year,Advanced,Night,82,71.57729105843168,High
+2022,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Workshop,Blasting accident,Truck,3,0,28,3–5 years,Basic,Night,71,98.27112824663922,Very High
+2022,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Face,Explosion,Loader,3,0,29,5–10 years,Basic,Morning,65,72.01768337320485,High
+2022,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Haul Road,Side fall,Truck,4,1,26,1–3 years,Intermediate,Afternoon,76,102.9504106483008,Very High
+2022,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Face,Gas leakage,Loader,4,1,38,3–5 years,Advanced,Night,84,91.75249213551014,Very High
+2022,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Face,Electrical accident,,4,0,28,3–5 years,Advanced,Morning,49,,Very High
+2022,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Workshop,Gas leakage,Loader,4,0,29,<1 year,Advanced,Afternoon,100,70.26976724872152,High
+2022,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Side fall,,6,0,26,<1 year,Intermediate,Night,69,,Very High
+2022,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Stockyard,Machinery collision,Excavator,4,0,30,3–5 years,Advanced,Afternoon,93,46.11606207671895,Moderate
+2022,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Face,Explosion,Heavy Earth Moving Machinery,11,0,22,1–3 years,,Afternoon,26,,Very High
+2022,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Workshop,Machinery collision,Dumper,2,0,32,3–5 years,Advanced,Night,90,63.30160319458176,High
+2022,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Face,Roof fall,Drill,3,0,29,3–5 years,Advanced,Afternoon,92,64.68449881372678,High
+2022,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Haul Road,Machinery collision,Dumper,3,0,24,3–5 years,,Night,79,,Very High
+2022,Telangana,Peddapalli,Singareni Coal Mine,Underground,Workshop,Fall of person,Dumper,5,0,19,1–3 years,Advanced,Night,85,80.80485568865578,High
+2022,Telangana,Peddapalli,Singareni Coal Mine,Underground,Face,Fall of person,Heavy Earth Moving Machinery,4,0,39,5–10 years,Basic,Night,76,87.9676985079138,Very High
+2022,Telangana,Peddapalli,Singareni Coal Mine,Underground,Excavation Area,Blasting accident,Heavy Earth Moving Machinery,7,0,29,5–10 years,Basic,Morning,56,92.44750185928858,Very High
+2022,Uttar Pradesh,Mirzapur,Obra Coal Mine,Underground,Stockyard,Vehicle rollover,Excavator,2,0,23,5–10 years,Advanced,Afternoon,74,58.36765475633038,Moderate
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Face,Roof fall,,6,0,48,10+ years,Intermediate,Night,75,,Very High
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Shaft,Fire,Excavator,3,0,44,10+ years,Advanced,Morning,86,56.193946063834765,Moderate
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Excavation Area,Blasting accident,Drill,6,0,25,3–5 years,Basic,Morning,70,81.0736735167582,High
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Opencast,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,3,0,30,3–5 years,Advanced,Night,76,84.30574924910113,High
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Opencast,Haul Road,Fire,Heavy Earth Moving Machinery,7,0,30,1–3 years,,Night,39,,Very High
+2022,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Stockyard,Machinery collision,Heavy Earth Moving Machinery,7,0,18,<1 year,Basic,Night,57,110.32359788476455,Very High
+2022,West Bengal,Bankura,Bankura Coal Mine,Underground,Face,Electrical accident,Drill,7,0,27,<1 year,Certified,Morning,79,71.71762232473397,High
+2022,West Bengal,Bankura,Bankura Coal Mine,Opencast,Workshop,Roof fall,Dumper,8,0,23,1–3 years,,Morning,49,,Very High
+2022,West Bengal,Bankura,Bankura Coal Mine,Underground,Stockyard,Blasting accident,Excavator,3,0,42,10+ years,Certified,Morning,85,53.94245823243426,Moderate
+2022,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,3,0,30,5–10 years,Basic,Night,75,92.08346077554786,Very High
+2022,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Workshop,Side fall,,3,0,32,5–10 years,Basic,Night,64,,Very High
+2022,West Bengal,Purulia,Purulia Coal Mine,Underground,Face,Gas leakage,Drill,4,0,27,3–5 years,Advanced,Night,77,82.77501617282772,High
+2023,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Workshop,Side fall,Heavy Earth Moving Machinery,4,0,25,<1 year,Certified,Morning,69,68.75398562997766,High
+2023,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Shaft,Fire,Heavy Earth Moving Machinery,6,0,19,1–3 years,,Night,48,,Very High
+2023,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Workshop,Fire,Drill,5,0,18,<1 year,Basic,Morning,59,74.93112746442515,High
+2023,Chhattisgarh,Koriya,Chirimiri Coal Mine,Opencast,Excavation Area,Machinery collision,Loader,1,0,34,5–10 years,Advanced,Morning,91,48.68277143121759,Moderate
+2023,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Stockyard,Gas leakage,Loader,5,0,28,1–3 years,Certified,Afternoon,45,91.72746502023398,Very High
+2023,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Stockyard,Roof fall,Excavator,2,0,25,1–3 years,Certified,Morning,100,51.992882345201345,Moderate
+2023,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Gas leakage,Drill,6,0,41,10+ years,Advanced,Night,88,72.96255640183902,High
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Excavation Area,Vehicle rollover,Heavy Earth Moving Machinery,3,0,29,10+ years,Certified,Morning,95,43.60062252214083,Moderate
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Blasting accident,,5,0,28,1–3 years,Intermediate,Night,62,,Very High
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Face,Fall of person,Excavator,9,0,21,<1 year,Basic,Night,36,109.17566469636452,Very High
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Stockyard,Machinery collision,Heavy Earth Moving Machinery,5,0,32,3–5 years,Basic,Afternoon,70,91.28626494887757,Very High
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Stockyard,Roof fall,Truck,5,0,29,1–3 years,Advanced,Afternoon,72,83.28937021293953,High
+2023,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,6,1,25,1–3 years,,Morning,50,,Very High
+2023,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Stockyard,Gas leakage,Loader,4,0,29,3–5 years,Basic,Night,63,84.13464842114779,High
+2023,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Haul Road,Electrical accident,,3,0,24,1–3 years,Certified,Morning,90,,Very High
+2023,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Face,Side fall,,8,0,27,3–5 years,Basic,Night,45,,Very High
+2023,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Workshop,Machinery collision,Heavy Earth Moving Machinery,5,0,27,1–3 years,Advanced,Morning,58,71.72050025882652,High
+2023,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Workshop,Electrical accident,Excavator,5,0,18,<1 year,Intermediate,Night,53,74.88494513687077,High
+2023,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,6,0,30,3–5 years,Intermediate,Afternoon,65,95.22282695969555,Very High
+2023,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Vehicle rollover,Dumper,5,0,38,5–10 years,Basic,Night,57,101.70920197217941,Very High
+2023,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Face,Vehicle rollover,Heavy Earth Moving Machinery,4,0,50,10+ years,Intermediate,Afternoon,74,85.42795446658141,Very High
+2023,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Side fall,Truck,6,0,27,3–5 years,Basic,Night,66,99.91133870328949,Very High
+2023,Jharkhand,Giridih,Giridih Coalfield,Opencast,Workshop,Fire,Heavy Earth Moving Machinery,4,0,29,3–5 years,Basic,Afternoon,74,81.87842368042264,High
+2023,Jharkhand,Giridih,Giridih Coalfield,Underground,Excavation Area,Vehicle rollover,Loader,7,0,30,3–5 years,Basic,Morning,75,88.4225514352198,Very High
+2023,Jharkhand,Giridih,Giridih Coalfield,Underground,Haul Road,Fall of person,Dumper,4,0,28,1–3 years,Basic,Night,47,105.85373961289481,Very High
+2023,Jharkhand,Giridih,Giridih Coalfield,Opencast,Excavation Area,Roof fall,Truck,5,0,26,<1 year,Certified,Afternoon,92,74.70718325023226,High
+2023,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Machinery collision,Dumper,5,0,38,5–10 years,Basic,Morning,72,79.10484320358572,High
+2023,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,9,0,41,10+ years,,Night,65,,Very High
+2023,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Workshop,Side fall,Dumper,3,0,38,10+ years,Advanced,Morning,96,44.48511900438289,Moderate
+2023,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Excavation Area,Fall of person,Heavy Earth Moving Machinery,6,0,25,1–3 years,Advanced,Night,63,89.78417724595673,Very High
+2023,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Workshop,Gas leakage,Loader,5,0,38,5–10 years,Certified,Night,98,70.41746262541623,High
+2023,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Opencast,Face,Gas leakage,Heavy Earth Moving Machinery,6,0,33,<1 year,,Night,61,,Very High
+2023,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Face,Gas leakage,Dumper,3,0,26,1–3 years,Advanced,Morning,85,76.11987450527928,High
+2023,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Excavation Area,Side fall,Loader,5,0,21,<1 year,,Night,46,,Very High
+2023,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Shaft,Electrical accident,Dumper,7,1,36,<1 year,,Afternoon,40,,Very High
+2023,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Shaft,Electrical accident,Heavy Earth Moving Machinery,4,1,29,5–10 years,Basic,Afternoon,64,103.91688472790092,Very High
+2023,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Excavation Area,Side fall,Heavy Earth Moving Machinery,4,0,27,<1 year,Certified,Night,92,71.63757917841957,High
+2023,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Face,Machinery collision,Excavator,4,0,33,5–10 years,Basic,Night,70,72.90306649559477,High
+2023,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Excavation Area,Electrical accident,Drill,3,0,39,10+ years,Advanced,Morning,77,53.12403692694686,Moderate
+2023,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,7,0,44,5–10 years,,Night,61,,Very High
+2023,Odisha,Angul,Talcher Coal Mine,Underground,Workshop,Machinery collision,Dumper,6,0,22,<1 year,Basic,Morning,68,84.63810217821874,High
+2023,Odisha,Angul,Talcher Coal Mine,Underground,Stockyard,Vehicle rollover,Excavator,3,0,19,1–3 years,Certified,Afternoon,80,66.88587342854399,High
+2023,Odisha,Angul,Talcher Coal Mine,Underground,Face,Roof fall,Dumper,9,0,21,<1 year,Basic,Night,26,135.12809798590013,Very High
+2023,Odisha,Angul,Talcher Coal Mine,Underground,Face,Side fall,Drill,4,0,19,1–3 years,Intermediate,Night,62,90.58168018461991,Very High
+2023,Odisha,Angul,Talcher Coal Mine,Underground,Workshop,Machinery collision,Drill,4,0,30,1–3 years,Certified,Night,90,68.37274650655759,High
+2023,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Stockyard,Gas leakage,Drill,6,0,40,10+ years,Certified,Night,88,51.75513729427526,Moderate
+2023,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Workshop,Blasting accident,Dumper,6,0,22,3–5 years,Advanced,Afternoon,94,58.441580718965675,Moderate
+2023,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Excavation Area,Blasting accident,Heavy Earth Moving Machinery,7,1,21,<1 year,Advanced,Night,59,109.89685231960141,Very High
+2023,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Stockyard,Fire,Heavy Earth Moving Machinery,6,0,26,1–3 years,Intermediate,Night,73,100.02289964915478,Very High
+2023,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,6,0,18,1–3 years,Advanced,Night,63,90.1767660738838,Very High
+2023,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Workshop,Machinery collision,,4,0,27,3–5 years,,Morning,64,,Very High
+2023,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Haul Road,Machinery collision,Dumper,6,0,35,5–10 years,Advanced,Night,75,91.11820127784246,Very High
+2023,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Excavation Area,Explosion,,6,0,20,<1 year,Advanced,Night,42,,Very High
+2023,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Excavation Area,Fall of person,Truck,4,0,28,1–3 years,Advanced,Morning,74,72.69247572021033,High
+2023,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Haul Road,Gas leakage,Truck,7,0,41,10+ years,Intermediate,Morning,67,87.15158249895933,Very High
+2023,Tamil Nadu,Ariyalur,Lignite Mine,Opencast,Workshop,Electrical accident,Loader,5,1,29,3–5 years,,Afternoon,34,,Very High
+2023,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,4,0,37,10+ years,Intermediate,Afternoon,100,60.29268233584766,High
+2023,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Workshop,Fall of person,Loader,5,0,18,1–3 years,Intermediate,Afternoon,31,81.89327186875362,High
+2023,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Haul Road,Machinery collision,,2,0,24,1–3 years,Advanced,Night,72,,Very High
+2023,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Electrical accident,Drill,6,0,32,5–10 years,Basic,Night,57,82.01968491174554,High
+2023,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Explosion,,4,0,20,1–3 years,Intermediate,Night,54,,Very High
+2023,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Face,Blasting accident,,4,0,32,3–5 years,,Night,40,,Very High
+2023,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Haul Road,Machinery collision,Dumper,6,0,28,1–3 years,,Morning,43,,Very High
+2023,Uttar Pradesh,Mirzapur,Obra Coal Mine,Opencast,Haul Road,Vehicle rollover,Dumper,9,0,20,1–3 years,,Morning,39,,Very High
+2023,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Opencast,Workshop,Vehicle rollover,Dumper,4,0,34,3–5 years,Intermediate,Morning,72,61.217027743656224,High
+2023,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Excavation Area,Vehicle rollover,Excavator,4,0,31,5–10 years,,Morning,44,,Very High
+2023,West Bengal,Bankura,Bankura Coal Mine,Opencast,Excavation Area,Fall of person,,3,0,21,1–3 years,,Morning,49,,Very High
+2023,West Bengal,Bankura,Bankura Coal Mine,Underground,Excavation Area,Roof fall,Loader,6,1,26,<1 year,Intermediate,Morning,80,93.78282053392876,Very High
+2023,West Bengal,Bankura,Bankura Coal Mine,Underground,Face,Gas leakage,,5,0,39,3–5 years,Basic,Night,77,,Very High
+2023,West Bengal,Bankura,Bankura Coal Mine,Opencast,Haul Road,Machinery collision,Excavator,4,0,29,1–3 years,,Night,42,,Very High
+2023,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Excavation Area,Roof fall,Loader,5,1,34,10+ years,Certified,Morning,84,78.79582437978138,High
+2023,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Haul Road,Gas leakage,Drill,13,0,19,<1 year,Intermediate,Night,37,129.70626011819104,Very High
+2023,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Stockyard,Fire,Loader,8,1,18,<1 year,,Morning,25,,Very High
+2023,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Haul Road,Blasting accident,Truck,3,0,36,5–10 years,Basic,Night,70,81.57389636503332,High
+2023,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Face,Gas leakage,Dumper,3,0,29,5–10 years,Certified,Morning,91,73.89343921299944,High
+2023,West Bengal,Purulia,Purulia Coal Mine,Underground,Excavation Area,Fall of person,Drill,4,1,30,1–3 years,Intermediate,Afternoon,78,82.03687373605796,High
+2023,West Bengal,Purulia,Purulia Coal Mine,Opencast,Face,Machinery collision,Heavy Earth Moving Machinery,2,0,28,3–5 years,Advanced,Morning,78,59.85571716765178,Moderate
+2023,West Bengal,Purulia,Purulia Coal Mine,Underground,Workshop,Fall of person,Dumper,4,0,33,5–10 years,Basic,Morning,61,75.50349965155998,High
+2024,Chhattisgarh,Korba,Gevra Coal Mine,Opencast,Face,Blasting accident,Excavator,4,0,28,1–3 years,Intermediate,Afternoon,69,74.19233904307143,High
+2024,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,5,0,25,<1 year,Advanced,Morning,51,97.02255835230423,Very High
+2024,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Face,Fall of person,Drill,3,0,21,<1 year,Certified,Morning,76,58.30535197247906,Moderate
+2024,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Fire,Loader,7,0,29,1–3 years,Advanced,Night,50,97.81256423503844,Very High
+2024,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Explosion,Truck,5,0,28,1–3 years,Basic,Afternoon,54,111.26898691913601,Very High
+2024,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Machinery collision,Loader,8,0,28,1–3 years,,Night,25,,Very High
+2024,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Workshop,Gas leakage,Heavy Earth Moving Machinery,5,0,27,<1 year,Basic,Morning,53,101.94861686929134,Very High
+2024,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Workshop,Side fall,Heavy Earth Moving Machinery,3,0,30,3–5 years,Intermediate,Afternoon,87,76.62572091076758,High
+2024,Chhattisgarh,Surguja,Bishrampur Coal Mine,Underground,Haul Road,Vehicle rollover,Dumper,7,0,40,10+ years,,Night,49,,Very High
+2024,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Opencast,Excavation Area,Roof fall,Excavator,3,0,24,1–3 years,,Afternoon,54,,Very High
+2024,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Excavation Area,Blasting accident,Dumper,3,0,25,3–5 years,Intermediate,Night,77,76.59612076642796,High
+2024,Gujarat,Bhavnagar,Bhavnagar Lignite Mine,Underground,Face,Fall of person,Loader,7,0,29,1–3 years,Advanced,Afternoon,70,86.36602740768984,Very High
+2024,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Haul Road,Fall of person,Heavy Earth Moving Machinery,3,0,39,5–10 years,Advanced,Afternoon,80,68.98434076999051,High
+2024,Gujarat,Kutch,Panandhro Lignite Mine,Opencast,Haul Road,Vehicle rollover,Loader,2,0,30,3–5 years,Intermediate,Afternoon,81,55.306439070367404,Moderate
+2024,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Stockyard,Fall of person,Drill,3,0,43,10+ years,Intermediate,Morning,92,44.829249623678606,Moderate
+2024,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Stockyard,Fire,Dumper,5,0,26,<1 year,Intermediate,Afternoon,67,78.71423653601684,High
+2024,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Face,Fall of person,Drill,7,0,44,10+ years,Intermediate,Night,87,63.56995322112872,High
+2024,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Workshop,Vehicle rollover,Heavy Earth Moving Machinery,3,0,21,<1 year,Intermediate,Afternoon,65,88.8887332496365,Very High
+2024,Jharkhand,Giridih,Giridih Coalfield,Opencast,Excavation Area,Electrical accident,Excavator,3,0,26,3–5 years,Advanced,Night,99,44.95769661813668,Moderate
+2024,Jharkhand,Giridih,Giridih Coalfield,Underground,Workshop,Machinery collision,Dumper,6,0,21,<1 year,Certified,Morning,73,81.80908177369449,High
+2024,Jharkhand,Ramgarh,Central Coal Mine,Underground,Workshop,Electrical accident,Loader,2,0,31,1–3 years,Intermediate,Morning,67,72.94271357258985,High
+2024,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Machinery collision,Heavy Earth Moving Machinery,11,1,22,<1 year,Basic,Afternoon,35,146.08622037997662,Very High
+2024,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Stockyard,Fire,Loader,4,0,28,1–3 years,Advanced,Night,83,81.68668825617294,High
+2024,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,6,1,34,5–10 years,,Night,72,,Very High
+2024,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Opencast,Haul Road,Vehicle rollover,Truck,4,0,39,5–10 years,Advanced,Afternoon,73,67.70191893488091,High
+2024,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Face,Machinery collision,Heavy Earth Moving Machinery,5,0,34,5–10 years,Intermediate,Morning,66,73.55749824491167,High
+2024,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,3,0,21,1–3 years,Basic,Morning,73,68.91148876443222,High
+2024,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Face,Gas leakage,Heavy Earth Moving Machinery,8,1,31,<1 year,Intermediate,Night,49,137.25199372068957,Very High
+2024,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Workshop,Machinery collision,Truck,7,0,18,<1 year,Intermediate,Afternoon,69,92.43869840736747,Very High
+2024,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Haul Road,Roof fall,Dumper,4,0,20,1–3 years,Advanced,Morning,76,78.10071676980161,High
+2024,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Stockyard,Fall of person,Loader,5,0,34,5–10 years,Basic,Night,66,86.44383987281395,Very High
+2024,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Excavation Area,Side fall,Loader,5,1,28,1–3 years,Intermediate,Morning,53,99.57705324594416,Very High
+2024,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Excavation Area,Vehicle rollover,Truck,2,0,23,1–3 years,Certified,Morning,85,65.55613533672368,High
+2024,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Face,Side fall,Loader,4,0,25,<1 year,Basic,Night,81,95.23731921345698,Very High
+2024,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Excavation Area,Fall of person,Excavator,5,0,32,3–5 years,Certified,Afternoon,72,62.87574668960041,High
+2024,Maharashtra,Yavatmal,Wani Coal Mine,Opencast,Excavation Area,Fall of person,Heavy Earth Moving Machinery,8,0,23,1–3 years,Basic,Night,51,103.06374242777704,Very High
+2024,Maharashtra,Yavatmal,Wani Coal Mine,Underground,Stockyard,Vehicle rollover,Dumper,6,0,21,<1 year,Intermediate,Morning,63,91.17240503187354,Very High
+2024,Odisha,Angul,Talcher Coal Mine,Opencast,Workshop,Fire,Excavator,3,0,31,5–10 years,Intermediate,Morning,85,46.76181424274404,Moderate
+2024,Odisha,Angul,Talcher Coal Mine,Underground,Excavation Area,Side fall,Loader,3,0,36,1–3 years,Advanced,Morning,81,67.90453208896847,High
+2024,Odisha,Angul,Talcher Coal Mine,Underground,Haul Road,Fire,Truck,5,0,31,3–5 years,Intermediate,Afternoon,66,90.59554569445878,Very High
+2024,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Blasting accident,,2,0,30,3–5 years,Intermediate,Morning,73,,Very High
+2024,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Blasting accident,Drill,3,0,22,<1 year,Certified,Afternoon,62,81.46039145422804,High
+2024,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Face,Fall of person,Drill,4,0,18,<1 year,Certified,Afternoon,81,63.509107917923835,High
+2024,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Face,Gas leakage,Truck,5,0,35,5–10 years,Intermediate,Night,91,91.79603690334756,Very High
+2024,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Haul Road,Fall of person,Truck,4,0,38,5–10 years,Basic,Afternoon,85,66.18262523782896,High
+2024,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Stockyard,Vehicle rollover,Loader,5,1,23,1–3 years,Intermediate,Night,71,93.96615481454576,Very High
+2024,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Shaft,Side fall,,8,0,28,10+ years,,Afternoon,59,,Very High
+2024,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Haul Road,Fall of person,Drill,3,0,28,1–3 years,Advanced,Morning,69,68.82403980538257,High
+2024,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Excavation Area,Fall of person,Drill,6,0,26,<1 year,Advanced,Afternoon,78,67.67828259001486,High
+2024,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Stockyard,Explosion,Excavator,7,0,25,1–3 years,Basic,Morning,34,110.41917672793747,Very High
+2024,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Shaft,Electrical accident,Dumper,3,0,34,5–10 years,Basic,Morning,58,72.4722823684651,High
+2024,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Face,Blasting accident,Heavy Earth Moving Machinery,6,0,28,5–10 years,Advanced,Morning,100,80.78582547316016,High
+2024,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Stockyard,Vehicle rollover,Heavy Earth Moving Machinery,5,0,30,3–5 years,Intermediate,Night,73,81.64406986881048,High
+2024,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Underground,Excavation Area,Vehicle rollover,Drill,6,1,33,5–10 years,Basic,Morning,73,84.41314755251842,High
+2024,Tamil Nadu,Cuddalore,Neyveli Lignite Mine,Opencast,Stockyard,Machinery collision,Dumper,2,0,29,3–5 years,Advanced,Afternoon,84,51.2203236527642,Moderate
+2024,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Roof fall,Drill,4,0,38,5–10 years,Advanced,Night,85,69.59654445740829,High
+2024,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Side fall,Drill,3,0,39,3–5 years,Advanced,Afternoon,65,69.8494611903006,High
+2024,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Underground,Face,Fall of person,Excavator,4,0,34,5–10 years,Basic,Morning,80,70.41320752806608,High
+2024,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Face,Blasting accident,,4,0,35,5–10 years,,Morning,54,,Very High
+2024,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Haul Road,Vehicle rollover,Heavy Earth Moving Machinery,7,0,23,<1 year,Basic,Night,35,116.60120704584752,Very High
+2024,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Stockyard,Vehicle rollover,Excavator,7,0,20,1–3 years,Basic,Morning,56,75.14555115114457,High
+2024,Telangana,Peddapalli,Singareni Coal Mine,Underground,Haul Road,Machinery collision,Dumper,6,0,18,1–3 years,Advanced,Night,90,84.77221750511573,High
+2024,Telangana,Peddapalli,Singareni Coal Mine,Underground,Workshop,Fall of person,Loader,4,0,24,1–3 years,Intermediate,Night,48,91.03120707556823,Very High
+2024,Telangana,Peddapalli,Singareni Coal Mine,Opencast,Workshop,Blasting accident,Truck,5,0,23,<1 year,Basic,Afternoon,44,90.5593264293735,Very High
+2024,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Vehicle rollover,Loader,5,0,27,1–3 years,Advanced,Night,65,80.60725831157714,High
+2024,Telangana,Peddapalli,Singareni Coal Mine,Underground,Face,Side fall,,6,0,20,<1 year,Basic,Morning,32,,Very High
+2024,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,3,0,31,1–3 years,Advanced,Afternoon,80,83.68346175251176,High
+2024,West Bengal,Bankura,Bankura Coal Mine,Underground,Face,Side fall,Excavator,3,0,40,5–10 years,Intermediate,Morning,66,67.86406665458928,High
+2024,West Bengal,Bankura,Bankura Coal Mine,Opencast,Excavation Area,Electrical accident,Drill,3,0,37,5–10 years,Certified,Night,100,40.073735732261575,Moderate
+2024,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Workshop,Machinery collision,Drill,3,0,34,5–10 years,,Afternoon,94,,Very High
+2024,West Bengal,Purulia,Purulia Coal Mine,Opencast,Workshop,Fall of person,Excavator,8,0,18,<1 year,Basic,Morning,25,86.84096127876255,Very High
+2024,West Bengal,Purulia,Purulia Coal Mine,Underground,Excavation Area,Roof fall,Excavator,5,0,22,1–3 years,Basic,Night,56,94.48678109839075,Very High
+2025,Chhattisgarh,Korba,Gevra Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,5,0,26,3–5 years,Intermediate,Afternoon,76,90.38338102039071,Very High
+2025,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Workshop,Fall of person,Loader,8,0,30,1–3 years,Intermediate,Afternoon,42,91.28650888953987,Very High
+2025,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Shaft,Machinery collision,Heavy Earth Moving Machinery,4,0,39,10+ years,Certified,Afternoon,79,74.03301102285789,High
+2025,Chhattisgarh,Koriya,Chirimiri Coal Mine,Underground,Excavation Area,Roof fall,Loader,4,0,44,5–10 years,Basic,Night,62,83.38966558304864,High
+2025,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Roof fall,Heavy Earth Moving Machinery,8,0,40,10+ years,Basic,Night,79,105.51662254930258,Very High
+2025,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Haul Road,Machinery collision,Dumper,4,0,29,1–3 years,Advanced,Morning,90,72.89038992965217,High
+2025,Chhattisgarh,Raigarh,Raigarh Coal Mine,Underground,Face,Gas leakage,Dumper,4,0,36,5–10 years,Advanced,Night,100,76.02411893725551,High
+2025,Chhattisgarh,Raigarh,Raigarh Coal Mine,Opencast,Excavation Area,Vehicle rollover,Dumper,4,0,30,3–5 years,Advanced,Night,53,82.73076393578205,High
+2025,Chhattisgarh,Surguja,Bishrampur Coal Mine,Opencast,Workshop,Machinery collision,Truck,3,0,32,3–5 years,Advanced,Night,75,72.6618977778503,High
+2025,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Haul Road,Fire,Truck,4,0,40,5–10 years,Basic,Night,77,99.25748026007253,Very High
+2025,Gujarat,Kutch,Panandhro Lignite Mine,Underground,Excavation Area,Roof fall,Drill,7,0,19,<1 year,,Afternoon,48,,Very High
+2025,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Stockyard,Explosion,Loader,5,0,23,3–5 years,Certified,Night,63,69.6816921330572,High
+2025,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Haul Road,Side fall,Truck,5,0,29,5–10 years,,Night,55,,Very High
+2025,Jharkhand,Bokaro,Bokaro Coal Mine,Opencast,Excavation Area,Fire,Dumper,5,0,25,<1 year,Intermediate,Night,36,99.70436420084333,Very High
+2025,Jharkhand,Bokaro,Bokaro Coal Mine,Underground,Workshop,Fall of person,Excavator,3,0,33,5–10 years,Advanced,Afternoon,92,54.270636081876496,Moderate
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Face,Fall of person,,3,0,23,<1 year,Intermediate,Morning,74,,Very High
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Side fall,Heavy Earth Moving Machinery,7,0,39,5–10 years,,Morning,51,,Very High
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Stockyard,Fire,Loader,3,0,18,1–3 years,Intermediate,Morning,78,69.7784682705867,High
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Explosion,Excavator,5,0,25,3–5 years,Certified,Morning,81,70.1539287880322,High
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Underground,Haul Road,Gas leakage,Loader,8,0,20,<1 year,Basic,Night,65,108.37335561260711,Very High
+2025,Jharkhand,Dhanbad,Jharia Coalfields,Opencast,Excavation Area,Side fall,Dumper,3,0,35,5–10 years,,Afternoon,62,,Very High
+2025,Jharkhand,Giridih,Giridih Coalfield,Opencast,Workshop,Blasting accident,Loader,7,0,27,<1 year,Advanced,Afternoon,63,74.39326157753466,High
+2025,Jharkhand,Giridih,Giridih Coalfield,Opencast,Excavation Area,Blasting accident,Excavator,3,0,20,<1 year,Intermediate,Afternoon,60,73.09650698809067,High
+2025,Jharkhand,Giridih,Giridih Coalfield,Underground,Haul Road,Vehicle rollover,Dumper,3,0,26,1–3 years,Certified,Morning,94,70.61456718643136,High
+2025,Jharkhand,Giridih,Giridih Coalfield,Opencast,Face,Machinery collision,Excavator,6,0,26,<1 year,Intermediate,Afternoon,50,78.20240444467223,High
+2025,Jharkhand,Giridih,Giridih Coalfield,Underground,Face,Roof fall,,2,0,26,5–10 years,Certified,Morning,86,,Very High
+2025,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Fire,Dumper,5,0,30,3–5 years,Certified,Morning,75,78.97327160352356,High
+2025,Jharkhand,Ramgarh,Central Coal Mine,Underground,Face,Gas leakage,Heavy Earth Moving Machinery,4,0,44,10+ years,Intermediate,Night,76,92.3393444947795,Very High
+2025,Jharkhand,Ramgarh,Central Coal Mine,Underground,Excavation Area,Roof fall,Dumper,7,0,18,<1 year,,Night,40,,Very High
+2025,Jharkhand,Ramgarh,Central Coal Mine,Underground,Haul Road,Explosion,Truck,9,1,18,<1 year,,Night,42,,Very High
+2025,Madhya Pradesh,Betul,Pathakhera Coal Mine,Underground,Face,Roof fall,Drill,5,0,21,<1 year,,Afternoon,38,,Very High
+2025,Madhya Pradesh,Shahdol,Sohagpur Coal Mine,Underground,Haul Road,Vehicle rollover,Truck,4,0,47,10+ years,Certified,Afternoon,80,73.48803925858145,High
+2025,Madhya Pradesh,Singrauli,Nigahi Coal Mine,Underground,Face,Blasting accident,,5,0,42,10+ years,Basic,Afternoon,62,,Very High
+2025,Madhya Pradesh,Umaria,Umaria Coal Mine,Opencast,Excavation Area,Machinery collision,Dumper,4,0,22,3–5 years,Basic,Night,64,80.0157604011014,High
+2025,Madhya Pradesh,Umaria,Umaria Coal Mine,Underground,Haul Road,Machinery collision,Drill,8,0,32,<1 year,Intermediate,Morning,62,92.79709330514271,Very High
+2025,Maharashtra,Chandrapur,Chandrapur Coal Mine,Opencast,Workshop,Machinery collision,Heavy Earth Moving Machinery,7,0,30,3–5 years,Advanced,Night,49,84.58729429949645,High
+2025,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Workshop,Machinery collision,Heavy Earth Moving Machinery,7,0,40,10+ years,,Afternoon,51,,Very High
+2025,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Shaft,Fire,Loader,3,0,40,3–5 years,Advanced,Afternoon,86,78.68320254254203,High
+2025,Maharashtra,Chandrapur,Chandrapur Coal Mine,Underground,Excavation Area,Machinery collision,Truck,7,0,23,<1 year,Basic,Morning,57,97.69213176884894,Very High
+2025,Maharashtra,Nagpur,Umrer Coal Mine,Underground,Shaft,Electrical accident,Drill,6,0,20,1–3 years,Basic,Night,58,101.04979423198772,Very High
+2025,Maharashtra,Nagpur,Umrer Coal Mine,Opencast,Face,Roof fall,Loader,9,1,24,<1 year,,Night,25,,Very High
+2025,Odisha,Angul,Talcher Coal Mine,Opencast,Excavation Area,Side fall,Truck,4,0,32,1–3 years,Certified,Night,84,66.15013289642293,High
+2025,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Haul Road,Fire,Dumper,5,0,29,3–5 years,Intermediate,Night,76,96.12963095622207,Very High
+2025,Odisha,Jharsuguda,Ib Valley Coal Mine,Underground,Shaft,Machinery collision,Dumper,9,0,18,<1 year,Basic,Afternoon,37,120.09021779850693,Very High
+2025,Odisha,Jharsuguda,Ib Valley Coal Mine,Opencast,Haul Road,Gas leakage,Truck,7,0,22,1–3 years,,Morning,59,,Very High
+2025,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Haul Road,Machinery collision,Dumper,7,0,26,1–3 years,Advanced,Afternoon,60,87.71910112043817,Very High
+2025,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Excavation Area,Explosion,Excavator,10,0,18,<1 year,,Night,31,,Very High
+2025,Odisha,Sundargarh,Basundhara Coal Mine,Opencast,Workshop,Vehicle rollover,Dumper,3,0,30,5–10 years,Certified,Night,99,48.40992545779398,Moderate
+2025,Odisha,Sundargarh,Basundhara Coal Mine,Underground,Workshop,Roof fall,Excavator,5,0,23,1–3 years,Advanced,Afternoon,59,80.10226628359982,High
+2025,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Haul Road,Machinery collision,Truck,4,0,39,5–10 years,Intermediate,Night,71,92.0826883902027,Very High
+2025,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Face,Gas leakage,,7,0,25,<1 year,Basic,Afternoon,55,,Very High
+2025,Tamil Nadu,Ariyalur,Lignite Mine,Underground,Excavation Area,Gas leakage,Truck,6,0,24,3–5 years,Basic,Night,77,95.85862256515959,Very High
+2025,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Excavation Area,Machinery collision,Heavy Earth Moving Machinery,3,0,35,5–10 years,Advanced,Night,100,60.52079140402385,High
+2025,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Excavation Area,Side fall,Heavy Earth Moving Machinery,5,0,24,3–5 years,Certified,Afternoon,84,67.8423429811353,High
+2025,Telangana,Bhadradri Kothagudem,Kothagudem Coal Mine,Opencast,Haul Road,Machinery collision,Truck,3,0,31,<1 year,Intermediate,Morning,54,83.63916179172416,High
+2025,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Shaft,Side fall,Truck,5,0,21,1–3 years,Basic,Morning,61,98.92312290221848,Very High
+2025,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Excavation Area,Side fall,,3,0,29,1–3 years,Advanced,Night,78,,Very High
+2025,Telangana,Mancherial,Bellampalli Coal Mine,Underground,Excavation Area,Electrical accident,,3,0,18,3–5 years,Intermediate,Night,76,,Very High
+2025,Telangana,Mancherial,Bellampalli Coal Mine,Opencast,Excavation Area,Blasting accident,Drill,8,0,21,<1 year,,Night,26,,Very High
+2025,Telangana,Peddapalli,Singareni Coal Mine,Underground,Stockyard,Machinery collision,Dumper,9,0,20,1–3 years,Intermediate,Morning,47,89.55615626593604,Very High
+2025,Uttar Pradesh,Sonbhadra,Singrauli Coal Mine,Underground,Excavation Area,Fire,Dumper,2,0,25,1–3 years,Intermediate,Morning,79,77.11847287653035,High
+2025,West Bengal,Bankura,Bankura Coal Mine,Opencast,Haul Road,Fall of person,Dumper,3,0,23,<1 year,Intermediate,Afternoon,59,80.23075074865245,High
+2025,West Bengal,Bankura,Bankura Coal Mine,Underground,Excavation Area,Roof fall,Drill,7,0,18,<1 year,Intermediate,Night,66,94.68631534878149,Very High
+2025,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Face,Fall of person,,5,0,19,3–5 years,Intermediate,Night,69,,Very High
+2025,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Opencast,Excavation Area,Blasting accident,Heavy Earth Moving Machinery,3,0,24,3–5 years,Certified,Morning,100,50.67577383836695,Moderate
+2025,West Bengal,Paschim Bardhaman,Raniganj Coal Mine,Underground,Workshop,Gas leakage,Heavy Earth Moving Machinery,6,1,37,1–3 years,Basic,Afternoon,47,127.41261141333162,Very High
+2025,West Bengal,Purulia,Purulia Coal Mine,Opencast,Workshop,Fall of person,Excavator,5,0,53,10+ years,,Night,59,,Very High
+2025,West Bengal,Purulia,Purulia Coal Mine,Underground,Shaft,Fall of person,Heavy Earth Moving Machinery,4,0,29,<1 year,Intermediate,Afternoon,73,94.52600278949049,Very High
+2025,West Bengal,Purulia,Purulia Coal Mine,Underground,Excavation Area,Fall of person,Drill,3,0,27,1–3 years,Certified,Night,66,70.71327350452184,High
+2025,West Bengal,Purulia,Purulia Coal Mine,Underground,Excavation Area,Blasting accident,Excavator,8,0,31,3–5 years,Basic,Morning,34,102.51902455798299,Very High

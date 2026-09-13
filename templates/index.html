@@ -1,0 +1,1317 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        Coal Mining Risk Analysis
+    </title>
+
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+
+        body {
+
+            margin: 0;
+
+            font-family:
+                Arial,
+                Helvetica,
+                sans-serif;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    #eef2f3,
+                    #dfe9f3
+                );
+
+            color: #1f2937;
+        }
+
+
+        .container {
+
+            width: 92%;
+
+            max-width: 1100px;
+
+            margin: 40px auto;
+
+            background: white;
+
+            padding: 35px;
+
+            border-radius: 18px;
+
+            box-shadow:
+                0 10px 35px
+                rgba(0, 0, 0, 0.12);
+        }
+
+
+        h1 {
+
+            margin-top: 0;
+
+            font-size: 32px;
+
+            color: #243447;
+        }
+
+
+        .subtitle {
+
+            color: #6b7280;
+
+            margin-bottom: 30px;
+        }
+
+
+        .section-title {
+
+            font-size: 24px;
+
+            margin-top: 10px;
+
+            margin-bottom: 25px;
+        }
+
+
+        .form-grid {
+
+            display: grid;
+
+            grid-template-columns:
+                repeat(3, 1fr);
+
+            gap: 22px;
+        }
+
+
+        .field {
+
+            display: flex;
+
+            flex-direction: column;
+        }
+
+
+        label {
+
+            font-size: 14px;
+
+            margin-bottom: 8px;
+
+            color: #374151;
+
+            font-weight: 600;
+        }
+
+
+        input,
+        select {
+
+            width: 100%;
+
+            padding: 13px;
+
+            border: 1px solid #d1d5db;
+
+            border-radius: 9px;
+
+            background: #f8fafc;
+
+            font-size: 15px;
+
+            outline: none;
+
+            transition: 0.2s;
+        }
+
+
+        input:focus,
+        select:focus {
+
+            border-color: #2563eb;
+
+            background: white;
+        }
+
+
+        .button-container {
+
+            margin-top: 30px;
+
+            display: flex;
+
+            justify-content: center;
+        }
+
+
+        button {
+
+            padding:
+                14px 28px;
+
+            border: none;
+
+            border-radius: 9px;
+
+            background: #ef4444;
+
+            color: white;
+
+            font-size: 16px;
+
+            font-weight: 600;
+
+            cursor: pointer;
+
+            transition: 0.2s;
+        }
+
+
+        button:hover {
+
+            background: #dc2626;
+
+            transform:
+                translateY(-1px);
+        }
+
+
+        button:disabled {
+
+            opacity: 0.6;
+
+            cursor: not-allowed;
+
+            transform: none;
+        }
+
+
+        .result {
+
+            margin-top: 40px;
+
+            padding-top: 25px;
+
+            border-top:
+                1px solid #e5e7eb;
+
+            display: none;
+        }
+
+
+        .result-title {
+
+            font-size: 25px;
+
+            margin-bottom: 25px;
+        }
+
+
+        .result-grid {
+
+            display: grid;
+
+            grid-template-columns:
+                1fr 1fr;
+
+            gap: 25px;
+        }
+
+
+        .result-card {
+
+            padding: 20px;
+
+            border-radius: 12px;
+
+            background: #f8fafc;
+        }
+
+
+        .result-label {
+
+            font-size: 14px;
+
+            color: #6b7280;
+
+            margin-bottom: 8px;
+        }
+
+
+        .risk-value {
+
+            font-size: 34px;
+
+            font-weight: 700;
+        }
+
+
+        .confidence-value {
+
+            font-size: 30px;
+
+            font-weight: 700;
+        }
+
+
+        .message {
+
+            margin-top: 20px;
+
+            padding: 16px;
+
+            border-radius: 10px;
+
+            background: #ecfdf5;
+
+            color: #15803d;
+
+            font-weight: 500;
+        }
+
+
+        .probabilities {
+
+            margin-top: 25px;
+        }
+
+
+        .probability-row {
+
+            display: flex;
+
+            justify-content:
+                space-between;
+
+            padding: 9px 0;
+
+            border-bottom:
+                1px solid #e5e7eb;
+        }
+
+
+        .error {
+
+            margin-top: 20px;
+
+            padding: 15px;
+
+            border-radius: 9px;
+
+            background: #fef2f2;
+
+            color: #b91c1c;
+
+            display: none;
+        }
+
+
+        @media (max-width: 800px) {
+
+            .form-grid {
+
+                grid-template-columns:
+                    1fr;
+            }
+
+
+            .result-grid {
+
+                grid-template-columns:
+                    1fr;
+            }
+
+            .container {
+
+                padding: 22px;
+            }
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+    <div style="
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        gap:15px;
+        margin-bottom:10px;
+    ">
+
+        <h1 style="margin:0;">
+            Coal Mining Risk Analysis
+        </h1>
+
+        <a
+            href="/dashboard"
+            style="
+                background:#1e293b;
+                color:white;
+                text-decoration:none;
+                padding:11px 18px;
+                border-radius:8px;
+                font-weight:600;
+                white-space:nowrap;
+            "
+        >
+            Risk Dashboard
+        </a>
+
+    </div>
+
+
+    <p class="subtitle">
+        Machine Learning Based Accident Risk Prediction System
+    </p>
+
+
+    <h2 class="section-title">
+        Mining Conditions
+    </h2>
+
+
+    <form id="predictionForm">
+
+
+        <div class="form-grid">
+
+
+            <!-- STATE -->
+
+            <div class="field">
+
+                <label>
+                    State
+                </label>
+
+                <select
+                    id="State"
+                    required
+                >
+
+                    <option value="">
+                        Select State
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- SHIFT -->
+
+            <div class="field">
+
+                <label>
+                    Shift
+                </label>
+
+                <select
+                    id="Shift"
+                    required
+                >
+
+                    <option value="">
+                        Select Shift
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- EXPERIENCE -->
+
+            <div class="field">
+
+                <label>
+                    Experience (Years)
+                </label>
+
+                <select
+                    id="Worker_Experience_Years"
+                    required
+                >
+
+                    <option value="">
+                        Select Experience
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- DISTRICT -->
+
+            <div class="field">
+
+                <label>
+                    District
+                </label>
+
+                <select
+                    id="District"
+                    required
+                >
+
+                    <option value="">
+                        Select District
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- MINE TYPE -->
+
+            <div class="field">
+
+                <label>
+                    Mine Type
+                </label>
+
+                <select
+                    id="Mine_Type"
+                    required
+                >
+
+                    <option value="">
+                        Select Mine Type
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- MACHINERY -->
+
+            <div class="field">
+
+                <label>
+                    Machinery Involved
+                </label>
+
+                <select
+                    id="Machinery_Involved"
+                    required
+                >
+
+                    <option value="">
+                        Select Machinery
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- MINE NAME -->
+
+            <div class="field">
+
+                <label>
+                    Mine Name
+                </label>
+
+                <select
+                    id="Mine_Name"
+                    required
+                >
+
+                    <option value="">
+                        Select Mine
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- PLACE -->
+
+            <div class="field">
+
+                <label>
+                    Place of Operation
+                </label>
+
+                <select
+                    id="Place_of_Operation"
+                    required
+                >
+
+                    <option value="">
+                        Select Place
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- SAFETY -->
+
+            <div class="field">
+
+                <label>
+                    Safety Compliance Score
+                </label>
+
+                <input
+                    type="number"
+                    id="Safety_Compliance_Score"
+                    min="0"
+                    max="100"
+                    step="0.01"
+                    placeholder="0 - 100"
+                    required
+                >
+
+            </div>
+
+
+            <!-- TRAINING -->
+
+            <div class="field">
+
+                <label>
+                    Training Level
+                </label>
+
+                <select
+                    id="Training_Level"
+                    required
+                >
+
+                    <option value="">
+                        Select Training
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <!-- AGE -->
+
+            <div class="field">
+
+                <label>
+                    Worker Age
+                </label>
+
+                <input
+                    type="number"
+                    id="Worker_Age"
+                    min="18"
+                    max="70"
+                    placeholder="Worker age"
+                    required
+                >
+
+            </div>
+
+
+        </div>
+
+
+        <div class="button-container">
+
+            <button
+                type="submit"
+                id="predictButton"
+            >
+
+                Predict Accident Risk
+
+            </button>
+
+        </div>
+
+
+    </form>
+
+
+    <div
+        class="error"
+        id="errorMessage"
+    ></div>
+
+
+    <!-- RESULT -->
+
+    <div
+        class="result"
+        id="resultSection"
+    >
+
+
+        <h2 class="result-title">
+            Prediction Result
+        </h2>
+
+
+        <div class="result-grid">
+
+
+            <div class="result-card">
+
+                <div class="result-label">
+                    Predicted Risk
+                </div>
+
+                <div
+                    class="risk-value"
+                    id="riskLevel"
+                >
+                    --
+                </div>
+
+            </div>
+
+
+            <div class="result-card">
+
+                <div class="result-label">
+                    Prediction Confidence
+                </div>
+
+                <div
+                    class="confidence-value"
+                    id="confidence"
+                >
+                    --
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+        <div
+            class="message"
+            id="resultMessage"
+        ></div>
+
+
+        <div class="probabilities">
+
+            <h3>
+                Risk Probabilities
+            </h3>
+
+
+            <div
+                class="probability-row"
+            >
+
+                <span>
+                    Low
+                </span>
+
+                <strong id="lowProbability">
+                    --
+                </strong>
+
+            </div>
+
+
+            <div
+                class="probability-row"
+            >
+
+                <span>
+                    Moderate
+                </span>
+
+                <strong id="moderateProbability">
+                    --
+                </strong>
+
+            </div>
+
+
+            <div
+                class="probability-row"
+            >
+
+                <span>
+                    High
+                </span>
+
+                <strong id="highProbability">
+                    --
+                </strong>
+
+            </div>
+
+
+            <div
+                class="probability-row"
+            >
+
+                <span>
+                    Very High
+                </span>
+
+                <strong id="veryHighProbability">
+                    --
+                </strong>
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+<script>
+
+
+// =========================================================
+// LOAD OPTIONS
+// =========================================================
+
+async function loadOptions() {
+
+    try {
+
+        const response =
+            await fetch("/options");
+
+        const data =
+            await response.json();
+
+
+        // Save hierarchical location data
+        window.locationData =
+            data.location_data;
+
+
+        // ---------------------------------------------
+        // Load independent dropdowns
+        // ---------------------------------------------
+
+        fillSelect(
+            "Mine_Type",
+            data.mine_types
+        );
+
+        fillSelect(
+            "Place_of_Operation",
+            data.places
+        );
+
+        fillSelect(
+            "Machinery_Involved",
+            data.machinery
+        );
+
+        fillSelect(
+            "Worker_Experience_Years",
+            data.experience
+        );
+
+        fillSelect(
+            "Training_Level",
+            data.training
+        );
+
+        fillSelect(
+            "Shift",
+            data.shifts
+        );
+
+
+        // ---------------------------------------------
+        // Load states
+        // ---------------------------------------------
+
+        fillSelect(
+            "State",
+            Object.keys(data.location_data)
+        );
+
+
+    }
+
+    catch (error) {
+
+        showError(
+            "Unable to load mining options."
+        );
+
+        console.error(error);
+
+    }
+
+}
+
+
+// =========================================================
+// FILL SELECT
+// =========================================================
+
+function fillSelect(
+    elementId,
+    values
+) {
+
+    const select =
+        document.getElementById(
+            elementId
+        );
+
+
+    values.forEach(
+        value => {
+
+            const option =
+                document.createElement(
+                    "option"
+                );
+
+            option.value = value;
+
+            option.textContent = value;
+
+            select.appendChild(
+                option
+            );
+
+        }
+    );
+
+}
+
+
+// =========================================================
+// STATE -> DISTRICT
+// =========================================================
+
+document
+    .getElementById("State")
+    .addEventListener(
+        "change",
+        function() {
+
+            const state =
+                this.value;
+
+            const districtSelect =
+                document.getElementById(
+                    "District"
+                );
+
+            const mineSelect =
+                document.getElementById(
+                    "Mine_Name"
+                );
+
+
+            // Clear districts
+            districtSelect.innerHTML =
+                '<option value="">Select District</option>';
+
+
+            // Clear mines
+            mineSelect.innerHTML =
+                '<option value="">Select Mine</option>';
+
+
+            if (!state) {
+                return;
+            }
+
+
+            const districts =
+                Object.keys(
+                    window.locationData[state] || {}
+                );
+
+
+            fillSelect(
+                "District",
+                districts
+            );
+
+        }
+    );
+
+
+// =========================================================
+// DISTRICT -> MINE
+// =========================================================
+
+document
+    .getElementById("District")
+    .addEventListener(
+        "change",
+        function() {
+
+            const state =
+                document.getElementById(
+                    "State"
+                ).value;
+
+            const district =
+                this.value;
+
+            const mineSelect =
+                document.getElementById(
+                    "Mine_Name"
+                );
+
+
+            // Clear mines
+            mineSelect.innerHTML =
+                '<option value="">Select Mine</option>';
+
+
+            if (
+                !state ||
+                !district
+            ) {
+                return;
+            }
+
+
+            const mines =
+                (
+                    window.locationData[state] || {}
+                )[district] || [];
+
+
+            fillSelect(
+                "Mine_Name",
+                mines
+            );
+
+        }
+    );
+
+
+// =========================================================
+// FORM SUBMISSION
+// =========================================================
+
+document
+    .getElementById(
+        "predictionForm"
+    )
+    .addEventListener(
+        "submit",
+        async function(event) {
+
+            event.preventDefault();
+
+
+            const button =
+                document.getElementById(
+                    "predictButton"
+                );
+
+
+            button.disabled = true;
+
+            button.textContent =
+                "Predicting...";
+
+
+            hideError();
+
+
+            const data = {
+
+                State:
+                    document.getElementById(
+                        "State"
+                    ).value,
+
+                District:
+                    document.getElementById(
+                        "District"
+                    ).value,
+
+                Mine_Name:
+                    document.getElementById(
+                        "Mine_Name"
+                    ).value,
+
+                Mine_Type:
+                    document.getElementById(
+                        "Mine_Type"
+                    ).value,
+
+                Place_of_Operation:
+                    document.getElementById(
+                        "Place_of_Operation"
+                    ).value,
+
+                Machinery_Involved:
+                    document.getElementById(
+                        "Machinery_Involved"
+                    ).value,
+
+                Worker_Age:
+                    document.getElementById(
+                        "Worker_Age"
+                    ).value,
+
+                Worker_Experience_Years:
+                    document.getElementById(
+                        "Worker_Experience_Years"
+                    ).value,
+
+                Training_Level:
+                    document.getElementById(
+                        "Training_Level"
+                    ).value,
+
+                Shift:
+                    document.getElementById(
+                        "Shift"
+                    ).value,
+
+                Safety_Compliance_Score:
+                    document.getElementById(
+                        "Safety_Compliance_Score"
+                    ).value
+            };
+
+
+            try {
+
+                const response =
+                    await fetch(
+                        "/predict",
+                        {
+
+                            method: "POST",
+
+                            headers: {
+                                "Content-Type":
+                                    "application/json"
+                            },
+
+                            body:
+                                JSON.stringify(data)
+
+                        }
+                    );
+
+
+                const result =
+                    await response.json();
+
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        result.error ||
+                        "Prediction failed."
+                    );
+
+                }
+
+
+                // -----------------------------------------
+                // DISPLAY RESULT
+                // -----------------------------------------
+
+                const risk =
+                    result.risk_level;
+
+
+                document
+                    .getElementById(
+                        "riskLevel"
+                    )
+                    .textContent =
+                    risk.toUpperCase() +
+                    " RISK";
+
+
+                document
+                    .getElementById(
+                        "confidence"
+                    )
+                    .textContent =
+                    result.confidence +
+                    "%";
+
+
+                document
+                    .getElementById(
+                        "resultMessage"
+                    )
+                    .textContent =
+                    "Prediction completed: " +
+                    risk.toUpperCase() +
+                    " RISK";
+
+
+                // -----------------------------------------
+                // PROBABILITIES
+                // -----------------------------------------
+
+                document
+                    .getElementById(
+                        "lowProbability"
+                    )
+                    .textContent =
+                    (
+                        result.probabilities.Low ||
+                        0
+                    ) + "%";
+
+
+                document
+                    .getElementById(
+                        "moderateProbability"
+                    )
+                    .textContent =
+                    (
+                        result.probabilities.Moderate ||
+                        0
+                    ) + "%";
+
+
+                document
+                    .getElementById(
+                        "highProbability"
+                    )
+                    .textContent =
+                    (
+                        result.probabilities.High ||
+                        0
+                    ) + "%";
+
+
+                document
+                    .getElementById(
+                        "veryHighProbability"
+                    )
+                    .textContent =
+                    (
+                        result.probabilities[
+                            "Very High"
+                        ] ||
+                        0
+                    ) + "%";
+
+
+                document
+                    .getElementById(
+                        "resultSection"
+                    )
+                    .style.display =
+                    "block";
+
+
+                document
+                    .getElementById(
+                        "resultSection"
+                    )
+                    .scrollIntoView({
+                        behavior: "smooth"
+                    });
+
+
+            }
+
+            catch (error) {
+
+                showError(
+                    error.message
+                );
+
+            }
+
+
+            button.disabled = false;
+
+            button.textContent =
+                "Predict Accident Risk";
+
+        }
+    );
+
+
+// =========================================================
+// ERROR HANDLING
+// =========================================================
+
+function showError(message) {
+
+    const error =
+        document.getElementById(
+            "errorMessage"
+        );
+
+    error.textContent = message;
+
+    error.style.display = "block";
+
+}
+
+
+function hideError() {
+
+    document
+        .getElementById(
+            "errorMessage"
+        )
+        .style.display = "none";
+
+}
+
+
+// =========================================================
+// INITIALIZE
+// =========================================================
+
+loadOptions();
+
+</script>
+
+
+</body>
+
+</html>

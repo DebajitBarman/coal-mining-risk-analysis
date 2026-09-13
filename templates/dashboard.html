@@ -1,0 +1,757 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Mining Risk Dashboard</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+    margin: 0;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background: #eef3f7;
+
+    color: #172033;
+}
+
+.container {
+
+    width: 94%;
+
+    max-width: 1250px;
+
+    margin: 30px auto;
+}
+
+.header {
+
+    background: white;
+
+    padding: 28px 32px;
+
+    border-radius: 16px;
+
+    box-shadow:
+        0 5px 20px
+        rgba(0,0,0,0.08);
+
+    margin-bottom: 22px;
+}
+
+.header h1 {
+
+    margin: 0 0 8px;
+
+    font-size: 30px;
+}
+
+.header p {
+
+    margin: 0;
+
+    color: #64748b;
+}
+
+.nav {
+
+    margin-top: 18px;
+}
+
+.nav a {
+
+    display: inline-block;
+
+    padding: 10px 18px;
+
+    background: #ef4444;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 8px;
+
+    font-weight: 600;
+}
+
+.stats {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 18px;
+
+    margin-bottom: 22px;
+}
+
+.stat {
+
+    background: white;
+
+    padding: 22px;
+
+    border-radius: 14px;
+
+    box-shadow:
+        0 4px 15px
+        rgba(0,0,0,0.06);
+}
+
+.stat-title {
+
+    color: #64748b;
+
+    font-size: 14px;
+
+    margin-bottom: 10px;
+}
+
+.stat-value {
+
+    font-size: 30px;
+
+    font-weight: 700;
+}
+
+.grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 22px;
+}
+
+.card {
+
+    background: white;
+
+    padding: 22px;
+
+    border-radius: 14px;
+
+    box-shadow:
+        0 4px 15px
+        rgba(0,0,0,0.06);
+}
+
+.card h2 {
+
+    margin-top: 0;
+
+    font-size: 20px;
+}
+
+.chart-container {
+
+    height: 320px;
+
+    position: relative;
+}
+
+.full {
+
+    grid-column: 1 / -1;
+}
+
+@media(max-width: 800px) {
+
+    .stats {
+
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .grid {
+
+        grid-template-columns: 1fr;
+    }
+
+}
+
+@media(max-width: 500px) {
+
+    .stats {
+
+        grid-template-columns: 1fr;
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<div class="header">
+
+    <h1>
+        Coal Mining Risk Analysis Dashboard
+    </h1>
+
+    <p>
+        Historical accident analysis and pre-accident risk overview
+    </p>
+
+    <div class="nav">
+
+        <a href="/">
+            ← Risk Prediction
+        </a>
+
+    </div>
+
+</div>
+
+
+<!-- =====================================================
+     STATISTICS
+====================================================== -->
+
+<div class="stats">
+
+
+    <div class="stat">
+
+        <div class="stat-title">
+            Total Records
+        </div>
+
+        <div
+            class="stat-value"
+            id="totalRecords"
+        >
+            --
+        </div>
+
+    </div>
+
+
+    <div class="stat">
+
+        <div class="stat-title">
+            Total Injured
+        </div>
+
+        <div
+            class="stat-value"
+            id="totalInjured"
+        >
+            --
+        </div>
+
+    </div>
+
+
+    <div class="stat">
+
+        <div class="stat-title">
+            Total Deaths
+        </div>
+
+        <div
+            class="stat-value"
+            id="totalDeaths"
+        >
+            --
+        </div>
+
+    </div>
+
+
+    <div class="stat">
+
+        <div class="stat-title">
+            Average Safety Score
+        </div>
+
+        <div
+            class="stat-value"
+            id="averageSafety"
+        >
+            --
+        </div>
+
+    </div>
+
+
+</div>
+
+
+<!-- =====================================================
+     CHARTS
+====================================================== -->
+
+<div class="grid">
+
+
+    <div class="card full">
+
+        <h2>
+            Accidents by State
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="stateChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Accidents by Year
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="yearChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Risk Level Distribution
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="riskChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Mine Type
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="mineTypeChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Shift Analysis
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="shiftChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Training Level
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="trainingChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Machinery Involved
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="machineryChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Place of Operation
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="placeChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Accident Types
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="accidentChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+    <div class="card">
+
+        <h2>
+            Average Safety Score by Risk
+        </h2>
+
+        <div class="chart-container">
+
+            <canvas id="safetyChart"></canvas>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+</div>
+
+
+<script>
+
+
+// =========================================================
+// LOAD DASHBOARD
+// =========================================================
+
+async function loadDashboard() {
+
+    const response =
+        await fetch("/dashboard-data");
+
+    const data =
+        await response.json();
+
+
+    // Statistics
+
+    document
+        .getElementById("totalRecords")
+        .textContent =
+        data.total_records;
+
+    document
+        .getElementById("totalInjured")
+        .textContent =
+        data.total_injured;
+
+    document
+        .getElementById("totalDeaths")
+        .textContent =
+        data.total_deaths;
+
+    document
+        .getElementById("averageSafety")
+        .textContent =
+        data.average_safety;
+
+
+    // Charts
+
+    createBarChart(
+        "stateChart",
+        data.state_counts,
+        "Accidents"
+    );
+
+
+    createLineChart(
+        "yearChart",
+        data.year_counts
+    );
+
+
+    createDoughnutChart(
+        "riskChart",
+        data.risk_counts
+    );
+
+
+    createDoughnutChart(
+        "mineTypeChart",
+        data.mine_type_counts
+    );
+
+
+    createBarChart(
+        "shiftChart",
+        data.shift_counts,
+        "Accidents"
+    );
+
+
+    createBarChart(
+        "trainingChart",
+        data.training_counts,
+        "Accidents"
+    );
+
+
+    createBarChart(
+        "machineryChart",
+        data.machinery_counts,
+        "Accidents"
+    );
+
+
+    createBarChart(
+        "placeChart",
+        data.place_counts,
+        "Accidents"
+    );
+
+
+    createBarChart(
+        "accidentChart",
+        data.accident_counts,
+        "Accidents"
+    );
+
+
+    createBarChart(
+        "safetyChart",
+        data.safety_by_risk,
+        "Average Safety Score"
+    );
+
+}
+
+
+// =========================================================
+// BAR CHART
+// =========================================================
+
+function createBarChart(
+    canvasId,
+    object,
+    label
+) {
+
+    const labels =
+        Object.keys(object);
+
+    const values =
+        Object.values(object);
+
+
+    new Chart(
+        document.getElementById(canvasId),
+        {
+
+            type: "bar",
+
+            data: {
+
+                labels: labels,
+
+                datasets: [
+
+                    {
+                        label: label,
+
+                        data: values
+                    }
+
+                ]
+            },
+
+            options: {
+
+                responsive: true,
+
+                maintainAspectRatio: false,
+
+                plugins: {
+
+                    legend: {
+                        display: false
+                    }
+
+                }
+            }
+
+        }
+    );
+
+}
+
+
+// =========================================================
+// LINE CHART
+// =========================================================
+
+function createLineChart(
+    canvasId,
+    object
+) {
+
+    new Chart(
+
+        document.getElementById(canvasId),
+
+        {
+
+            type: "line",
+
+            data: {
+
+                labels:
+                    Object.keys(object),
+
+                datasets: [
+
+                    {
+
+                        label:
+                            "Accidents",
+
+                        data:
+                            Object.values(object),
+
+                        tension: 0.3,
+
+                        fill: false
+
+                    }
+
+                ]
+
+            },
+
+            options: {
+
+                responsive: true,
+
+                maintainAspectRatio: false
+
+            }
+
+        }
+
+    );
+
+}
+
+
+// =========================================================
+// DOUGHNUT CHART
+// =========================================================
+
+function createDoughnutChart(
+    canvasId,
+    object
+) {
+
+    new Chart(
+
+        document.getElementById(canvasId),
+
+        {
+
+            type: "doughnut",
+
+            data: {
+
+                labels:
+                    Object.keys(object),
+
+                datasets: [
+
+                    {
+
+                        data:
+                            Object.values(object)
+
+                    }
+
+                ]
+
+            },
+
+            options: {
+
+                responsive: true,
+
+                maintainAspectRatio: false
+
+            }
+
+        }
+
+    );
+
+}
+
+
+loadDashboard();
+
+</script>
+
+
+</body>
+
+</html>
